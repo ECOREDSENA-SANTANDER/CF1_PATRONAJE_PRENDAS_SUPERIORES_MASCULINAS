@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Estructura corporal masculina',
+    Description:
+      'Reconocer la estructura corporal masculina ofrece una comprensión integral del movimiento, los somatotipos y la medición antropométrica. Este componente aborda desde los fundamentos de la antropometría hasta las técnicas aplicadas al cuerpo masculino, permitiendo traducir datos tridimensionales en planos 2D para el patronaje industrial. Además, se destaca la relevancia de las bases textiles en la confección de prendas superiores, optimizando ajuste, caída y confort en la moda casual masculina.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,28 +36,122 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Estructura del cuerpo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Antropometría',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Anatomía',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Biomecánica',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Morfología',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Ergonomía',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'División del cuerpo',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Tipos de siluetas',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo: 'Somatotipos masculinos',
+            hash: 't_1_8',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Análisis y clasificación de las medidas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Sistemas de medidas – clasificación',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Las medidas',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Análisis de medidas y cuadro de tallas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Medidas deducidas',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Proporciones en la deducción de medidas',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Moda y sistema moda',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Universos del vestuario',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Gamas de mercados',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Tipología de prendas masculinas',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Textiles',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Aprovechamiento',
+            hash: 't_5_1',
+          },
+        ],
       },
     ],
     subMenu: [
