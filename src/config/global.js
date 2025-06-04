@@ -52,7 +52,7 @@ export default {
           {
             numero: '1.3',
             titulo: 'Biomecánica',
-            hash: 't_1_4',
+            hash: 't_1_3',
           },
           {
             numero: '1.4',

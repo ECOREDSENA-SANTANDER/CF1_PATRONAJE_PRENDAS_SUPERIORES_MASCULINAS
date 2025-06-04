@@ -41,6 +41,62 @@ figcaption
   background-image: url("../assets/curso/portada/banner_interno.png") !important
 
  
+.subt
+  position: relative
+  width: fit-content
+  padding-right: 20px
+  &::before
+    content: ''
+    position: absolute
+    background-color: #FFE2B9
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-xs)
+    &::before
+      height: 100%
+      top: 1px
+
+.subt2
+  position: relative
+  width: fit-content
+  padding-right: 20px
+  &::before
+    content: ''
+    position: absolute
+    background-color:  #FFE2B9
+    border-radius: 200px
+    width: 100%
+    height: 55%
+    top: 18px
+    left: 14px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media screen and (min-device-width: 767px) and (max-device-width: 1180px)
+    &::before
+      height: 107%
+      top: -12px
+    h3
+      margin-left: 100px
+      margin-top: -54px
+      padding-bottom: 23px
+  @media screen and (max-width: 767px)
+    &::before
+      height: 140%
+      top: -24px
+    h3
+      margin-left: 2px
+      margin-top: -9px
+      padding-bottom: 4px
+
+
 //fondos y bordes
 
 .borde-redondo
@@ -69,6 +125,9 @@ figcaption
 .bgazulclaro
   background-color: #D1F1FF
 
+.bgazulclaro2
+  background-color: #ECF9FF
+
 .bgamarilloclaro
   background-color: #FFE2B9
 
@@ -81,11 +140,34 @@ figcaption
 .bgrojo
   background-color: #8F0000
 
+.bgblanco
+  background-color: white
+
 .bgfondo11
   background: url('../assets/curso/t1/fondo1.png')
   background-size: 100% 100%
   background-repeat: no-repeat
   background-position: cover
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
 
 //temas
 
@@ -101,3 +183,38 @@ figcaption
 .mover_sub
   margin-top: -17px
   margin-left: -5px
+
+.tarjeta.color-terciario
+  background-color: #ECF9FF
+
+.tabs-a__tab 
+  background-color:  #2F5E34
+  color: white
+
+.tarjeta.color-adiconal-1
+  background-color: #D1F1FF
+
+.ImagenInfografica.color-amarillo
+  background-color: #FFF8EE
+
+.tarjeta.color1
+  background-color: #FFE2B9
+
+.tarjeta.color2
+  background-color: #E8CCCC
+
+table th, table td 
+  text-align: left
+
+.tabla-a thead 
+  background-color: #ECF9FF
+
+.tarjeta-audio.color-secundario
+  background-color: #F4E6E6
+
+.tarjeta-audio 
+  border: 4px solid
+
+.tarjeta-audio.color-secundario .tarjeta-audio__texto
+  color: black
+  font-style: normal !important  
