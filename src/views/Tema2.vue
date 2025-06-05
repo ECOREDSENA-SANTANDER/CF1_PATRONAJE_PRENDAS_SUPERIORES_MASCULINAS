@@ -7,7 +7,7 @@
         span 2
       h1 Análisis y clasificación de las medidas
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-3.col-md-5.col-sm-12
         img(src='@/assets/curso/t2/img1.png', alt='')
       .col-lg-9.col-md-12.col-sm-12
@@ -17,6 +17,66 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.1 Sistemas de medidas y clasificación
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
+      .col-lg-2.col-md-3.col-sm-12
+        img(src='@/assets/curso/t2/img2.png', alt='')
+      .col-lg-7.col-md-9.col-sm-12
+        .row.bgazulclaro.borde-redondo
+          p.px-5.py-4.mb-0 En el área del patronaje, el sistema de medidas hace referencia al conjunto de técnicas y procesos utilizados para obtener, interpretar y aplicar las dimensiones corporales en la elaboración de patrones para prendas de vestir. La precisión en la toma de estas medidas es esencial, ya que de ello depende el ajuste, la horma y la correcta adaptación de la prenda al cuerpo, logrando así un equilibrio entre proporcionalidad, comodidad y estética.
+      .col-lg-3.col-md-4.col-sm-12
+        img(src='@/assets/curso/t2/img3.png', alt='')
+
+    p.mb-5.text-center Existen principalmente dos sistemas de medición utilizados en el patronaje:
+
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.bgfondotar1.p-4.p-md-4.p-lg-5(data-aos="fade-right")
+        .row.justify-content-center.mb-4
+          .col-12
+            .row.align-items-end
+              .col-lg-3.mb-4
+                img.img-a.img-t(src='@/assets/curso/t2/img4.png', alt='Imagen decorativa.')
+              .col-lg-5
+                h2.mb-4.bgverde.text-white.borde-redondo-der.px-3 Sistema inglés
+            p.mb-4 Utiliza como unidad básica la pulgada y es comúnmente empleado en procesos de patronaje en países como Estados Unidos, Reino Unido y Australia. Las medidas se expresan en fracciones A / B, donde #[b A] (numerador) indica cuántas partes se toman y #[b B] (denominador) representa en cuántas partes iguales se divide la unidad. Este sistema permite realizar mediciones precisas mediante subdivisiones de la pulgada.
+      .col-md.tarjeta.bgfondotar2.p-4.p-md-4.p-lg-5(data-aos="fade-left")
+        .row.justify-content-center.mb-1
+          .col-12
+            .row.align-items-end
+              .col-lg-3.mb-4
+                img.img-a.img-t(src='@/assets/curso/t2/img5.png', alt='Imagen decorativa.')
+              .col-lg-7
+                h2.mb-4.bgrojo.text-white.borde-redondo-der.px-3 Sistema internacional ométrico decimal
+            p.mb-0 Tiene como unidad básica el metro (y sus subdivisiones, como el centímetro). Es el sistema más utilizado en países latinoamericanos y en gran parte del mundo. hace referencia al sistema de unidades en donde los múltiplos o submúltiplos de las unidades de igual naturaleza siguen la escala decimal (10).
+
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
+      .col-lg-4.col-md-6.col-sm-12 
+        img.p-0(src='@/assets/curso/t2/img6.png', alt='')
+      .col-lg-8.col-md-12.col-sm-12.p-0.mt-1
+        .row.bgrosado.p-0
+          .col-auto.px-5.mt-5
+            p.bgrojo.text-white.p-1.mb-4 #[b Importante]
+          p.px-5.mb-5.mt-3 La escala en fracciones de pulgada se utiliza para medir con precisión en el sistema inglés; divide cada pulgada en partes iguales, como 1 / 2, 1 / 4, 1 / 8, 1 / 16, etc. El numerador indica cuántas partes se toman y el denominador cuántas partes tiene la pulgada en total; es común en patronaje y carpintería.
+      
+    p.mb-5 Al sistema inglés también se le llama “sistema de medidas imperial”, especialmente en el entorno de la confección. Sin embargo, la mayoría de los países han adoptado el sistema de medidas decimal comúnmente llamado “sistema universal”, haciendo comunes los procesos de conversión de medidas, donde 1 pulgada corresponde a 2.54 cm.
+
+    .row.justify-content-center.align-items-center.bgazulclaro.mb-5(data-aos="fade-right")
+      .col-lg-12.col-md-12.col-sm-12.px-5.mt-4
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 11.
+          |  Escala en fracciones de pulgada
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-11.col-sm-12
+            img.mb-4(src='@/assets/curso/t2/fig11.png', alt='La figura representa una escala graduada del sistema inglés que indica fracciones de pulgada desde 0 hasta 10 pulgadas. Cada pulgada está subdividida en dieciséis partes iguales, lo que permite medir con precisión múltiplos de 1/16 de pulgada. También se destacan las marcas intermedias correspondientes a 1/2 pulgada.')
+
+
+    .row.justify-content-center.align-items-center.bgprimario.mb-5(data-aos="fade-left")
+      .col-lg-12.col-md-12.col-sm-12.px-5.mt-4
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 13. 
+          |  Centímetros (metro)
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-11.col-sm-12
+            img.mb-4(src='@/assets/curso/t2/fig13.png', alt='La figura presenta una escala en centímetros, correspondiente al sistema métrico. La regla está graduada de 0 a 25 centímetros, con subdivisiones en milímetros, lo que permite mediciones precisas en décimas de centímetro. Cada número entero representa un centímetro completo.')
 
 
 </template>
