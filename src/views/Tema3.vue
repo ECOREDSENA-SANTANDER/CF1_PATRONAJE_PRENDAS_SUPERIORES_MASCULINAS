@@ -157,11 +157,11 @@
             thead
               tr
                 th Horizontales
-                th Verticals
+                th Verticales
                 th Otras fórmulas de deducción
             tbody
               tr
-                td 
+                td
                   ul.lista-ul--color.fa-al
                     li 
                       i.fas.fa-chevron-circle-right
@@ -263,6 +263,269 @@
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Largo de falda para hombre = 2 / 3 de la medida cintura al suelo – 3 cm.
+
+    p.mb-4.text-center Se detalla enseguida cómo obtener medidas deducidas, a partir del desarrollo de las siguientes fórmulas:
+
+    .row.justify-content-center.align-items-end.mb-5
+      .col-lg-6.col-md-10.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 5. 
+          |  Medidas deducidas
+        .tabla-a.color-secundario.estilo4.mt-4
+          table
+            thead
+              tr
+                th Medida
+                th Fórmula
+                th Resultado
+            tbody
+              tr
+                td Estatura total
+                td No aplica
+                td 1,70 cm
+              tr
+                td Tórax máximo
+                td No aplica
+                td 90 cm
+              tr
+                td Cadera
+                td Tórax máximo + 8 cm
+                td 98 cm
+              tr
+                td Pecho
+                td Tórax máximo - 4 cm
+                td 86 cm
+              tr
+                td Cintura
+                td Cadera - 28 cm
+                td 70 cm
+              tr
+                td Estatura 7a cervical
+                td Estatura total - 20 cm
+                td 1,50 cm
+              tr
+                td Largo de bazo
+                td 4 / 10 de la estatura 7ac
+                td 60 cm
+      .col-lg-6.col-md-8.col-sm-12
+        img(src='@/assets/curso/t3/img3.png', alt='')
+
+    .subt.mb-5(data-aos="fade-right")
+      .row.align-items-center
+        .col-md-auto.col-3
+          img(src='@/assets/curso/t1/ico.png', alt='')
+        .col-md-auto.col-9.ps-0
+          h3.mb-0.text-black Tallas y cuadros
+
+    p.mb-4 Luego de comprender el proceso de deducción de medidas corporales, se procede a la presentación de un conjunto de tallas. A partir de estas, se desarrolla el cálculo de las medidas necesarias para construir los cuadros de tallas, los cuales sirven como base para la elaboración de patrones en diferentes proporciones corporales.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.col-md-12.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 6. 
+          |  Grupos de tallas
+        .tabla-a.color-secundario.estilo5.mt-4
+          table
+            thead
+              tr
+                th Talla
+                th XS/6
+                th S/8
+                th M/10
+                th L/12
+                th Incremento
+            tbody
+              tr
+                td Tórax máximo
+                td 40 cm
+                td 42 cm
+                td 44 cm
+                td 46 cm
+                td 2 cm
+              tr
+                td Estatura total
+                td 165 cm
+                td 167 cm
+                td 167 cm
+                td 170 cm
+                td 2 cm
+
+    .row.justify-content-center.align-items-center.bgazulclaro.borde-redondo.mb-5
+      .row.justify-content-center.align-items-center.mt-4.mb-3
+        .col-lg-11.col-md-12.col-sm-12
+          p A partir de la información anterior, es importante relacionar el siguiente resultado:
+      .row.justify-content-center.align-items-start
+        .col-lg-4.col-md-12.col-sm-12
+          ul.lista-ul--color.fa-al
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Cadera = tórax máximo + 4 cm
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Pecho = tórax máximo - 2 cm
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Cintura = cadera - 14 cm
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Estatura total = estatura 7ac + 20 cm
+        .col-lg-4.col-md-12.col-sm-12
+          ul.lista-ul--color.fa-al
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Estatura 7ac = estatura total – 20 cm
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Talle = 3 / 10 de la estatura 7ac
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Largo de brazo = 4 / 10 de la estatura 7ac
+        .col-lg-3.col-md-12.col-sm-12
+          ul.lista-ul--color.fa-al
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Cuello= 2 / 3 de pecho + 4 cm
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Cintura/suelo = 7 / 10 de la estatura 7ac  
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Base = pecho + desahogo + costura (desahogo 4 cm y la costura 2 cm)
+
+    p.text-center.mb-4 Como complemento a lo analizado, se detalla la forma cómo se realiza una construcción de la talla 6 con aplicación de fórmulas.
+
+    .row.justify-content-center.align-items-end.mb-5
+      .col-lg-6.col-md-8.col-sm-12
+        img(src='@/assets/curso/t3/img4.png', alt='')
+      .col-lg-6.col-md-10.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 7. 
+          |  Aplicación de fórmulas
+        .tabla-a.color-secundario.estilo5.mt-4
+          table
+            caption Nota: medidas dadas en centímetros.
+            thead
+              tr
+                th Talla
+                th 6
+                th X6/6
+            tbody
+              tr
+                td Tórax máximo
+                td 40
+                td 40
+              tr
+                td Cadera
+                td 40 + 4
+                td 44
+              tr
+                td Pecho
+                td 40 - 2
+                td 38
+              tr
+                td Cintura
+                td 44 - 14
+                td 30
+              tr
+                td Estatura total
+                td 166
+                td 166
+              tr
+                td Estatura 7a
+                td 164 - 20
+                td 146
+              tr
+                td Talle
+                td 144 / 10 = 14,4 * 3
+                td 43,8
+              tr
+                td Largo de brazo
+                td 144 / 10 = 14,4 * 4
+                td 58,4
+              tr
+                td Cuello
+                td 40 / 3 = 13,3 * 2
+                td 26,6
+              tr
+                td Cintura/suelo
+                td 144 / 10 =14,4 * 7
+                td 102,2
+              tr
+                td Base
+                td 38 + 4 + 2
+                td 44
+
+    .subt2.mb-5(data-aos="fade-right")
+      .row.align-items-center
+        .col-md-auto.col-3
+          img(src='@/assets/curso/t1/ico.png', alt='')
+        .col-md-auto.col-9.ps-0
+          h3.mb-0.text-black Normatividad aplicable a la toma de medidas corporales
+
+    p.mb-4 Tanto a nivel internacional como nacional, existen normativas que orientan y estandarizan los procesos de medición del cuerpo humano, especialmente en el ámbito de la confección y el diseño de vestuario; estas normas garantizan uniformidad, precisión y confiabilidad en la obtención y uso de las medidas antropométricas. Entre las más relevantes se destacan:
+
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.bgfondotar1.p-4.p-md-4.p-lg-5(data-aos="fade-right")
+        .row.justify-content-center.mb-4
+          .col-12
+            .row.align-items-center
+              .col-lg-3.mb-4
+                img.img-a.img-t(src='@/assets/curso/t3/img5.png', alt='Imagen decorativa.')
+              .col-lg-8
+                h2.mb-4.bgverde.text-white.borde-redondo-der.px-3 Norma Técnica Colombiana NTC-ISO 8559:1995
+            p.mb-4 Esta norma establece directrices para la recolección y el uso de dimensiones corporales humanas con fines de diseño, fabricación y adecuación de prendas de vestir; su enfoque principal es la aplicación de estudios antropométricos para mejorar el ajuste y la ergonomía del vestuario.
+      .col-md.tarjeta.bgfondotar2.p-4.p-md-4.p-lg-5(data-aos="fade-left")
+        .row.justify-content-center.mb-1
+          .col-12
+            .row.align-items-center
+              .col-lg-3.mb-4
+                img.img-a.img-t(src='@/assets/curso/t3/img6.png', alt='Imagen decorativa.')
+              .col-lg-8
+                h2.mb-4.bgrojo.text-white.borde-redondo-der.px-3 Norma UNE-EN 13402-3
+            p.mb-0 Corresponde a una normativa europea sobre el etiquetado de tallas en prendas de vestir; su propósito es facilitar la comprensión de las tallas por parte del consumidor, promoviendo un sistema uniforme basado en medidas corporales reales, en lugar de códigos numéricos tradicionales.
+
+    Separador  
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2 3.2 Proporciones en la deducción de medidas
+
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-12.col-sm-12.bgrosado.borde-redondo
+        .row.mt-5.mb-5
+          p.px-5.mt-5.mb-4 El incremento proporcionado y secuenciado debe responder a estándares que permitan el ajuste de tallas, dado que se determina a partir de la identificación en la variación de unidades de medida entre trallas dentro de las diferentes líneas de la medición del cuerpo.
+          p.px-5.mb-4 Las fórmulas aplicadas para calcular la proporción consisten en dividir la diferencia del contorno entre cuatro, para obtener fracciones que corresponden a dicha proporción, por ejemplo:
+          ul.lista-ul--color.fa-al.px-5
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 1 proporción equivale a 2 cm.
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Media proporción corresponde a 1 cm.
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-3 Una cuarta proporción corresponde a 0,5 cm.
+      .col-lg-6.col-md-8.col-sm-12
+        img(src='@/assets/curso/t3/img7.png', alt='')
+
+    // falta tabla
+
+
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
+      .col-lg-4.col-md-6.col-sm-12 
+        img.p-0(src='@/assets/curso/t3/img2.png', alt='')
+      .col-lg-8.col-md-12.col-sm-12.p-0.mt-1
+        .row.bgamarilloclaro2.p-0
+          .col-auto.px-5.mt-5
+            p.bgamarillo.text-black.p-1.mb-3 #[b Notas aclaratorias]
+          ul.lista-ul--color.fa-al.px-5
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 La proporción indica el incremento de cada medida al pasar de la talla 8 a la talla 10.
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 Esta tabla es útil para escalar tallas de forma precisa manteniendo la proporcionalidad del cuerpo.
+            li 
+              i.fas.fa-chevron-circle-right
+              span.mb-0 El uso de incrementos menores en largos verticales (como talle o centro) refleja que estos cambian menos entre tallas en comparación con contornos.
 
 
 </template>

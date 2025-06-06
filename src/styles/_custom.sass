@@ -242,6 +242,9 @@ table th, table td
 .tabla-a thead 
   background-color: #ECF9FF
 
+table caption 
+  font-weight: 500
+
 .tabla-a.color-secundario.estilo1
   table
     min-width: auto
@@ -323,6 +326,39 @@ table th, table td
     line-height: 0
     text-align: left
   td
-    text-align: left
+    text-align: start
+    vertical-align: top
     background-color: white
     padding: 7px 7px
+
+.tabla-a.color-secundario.estilo4
+  table
+    min-width: auto
+    text-align: center
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: center
+  td
+    text-align: center
+    background-color: white
+    padding: 8px 8px
+
+.tabla-a.color-secundario.estilo5
+  table
+    min-width: auto
+    text-align: center
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: center
+  td
+    text-align: center
+    background-color: white
+    padding: 8px 8px

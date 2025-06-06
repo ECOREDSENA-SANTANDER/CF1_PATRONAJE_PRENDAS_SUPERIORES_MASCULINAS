@@ -215,7 +215,7 @@
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
                 span Ir al sitio
-                  i.fas.fa-play-circle
+                  i.fas.fa-play-circle.p-2
 
 
 
