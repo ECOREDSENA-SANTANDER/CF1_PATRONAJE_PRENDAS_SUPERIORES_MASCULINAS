@@ -51,8 +51,9 @@ figcaption
     background-color: #FFE2B9
     border-radius: 200px
     width: 100%
-    height: 75%
-    top: 7px
+    height: 55%
+    top: 18px
+    left: 14px
     z-index: 0
   h3, img
     z-index: 999  
@@ -135,11 +136,20 @@ figcaption
 .bgamarilloclaro
   background-color: #FFE2B9
 
+.bgamarilloclaro2
+  background-color: #FFF0DC
+
+.bgamarillo
+  background-color: #FFB751
+
 .bgverdemate
   background-color: #D5DFD6
 
 .bgverde
   background-color: #2F5E34
+
+.bgverdeclaro
+  background-color: #EBEFEB
 
 .bgrosado
   background-color: #F4E6E6
@@ -232,6 +242,23 @@ table th, table td
 .tabla-a thead 
   background-color: #ECF9FF
 
+.tabla-a.color-secundario.estilo1
+  table
+    min-width: auto
+    text-align: center
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: center
+  td
+    line-height: 0
+    text-align: center
+    background-color: white
+    padding: 19px 19px
+
 .tarjeta-audio.color-secundario
   background-color: #F4E6E6
 
@@ -241,3 +268,61 @@ table th, table td
 .tarjeta-audio.color-secundario .tarjeta-audio__texto
   color: black
   font-style: normal !important  
+
+.movercajonrosado
+  position: relative
+  z-index: 1
+  top: -70px
+
+.movercajonverde
+  position: relative
+  z-index: 2
+
+.tarjeta--boton.bginactiva
+  background: url('../assets/curso/t2/tar1_ia.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+.tarjeta--boton.bginactiva:hover
+  background-image: url('../assets/curso/t2/tar2_ac.png')
+
+.img-t
+  width: auto
+  height: auto
+
+.img-a
+  display: block
+  margin: auto
+
+.tabla-a.color-secundario.estilo2
+  table
+    min-width: auto
+    text-align: center
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: center
+  td
+    text-align: center
+    background-color: white
+    padding: 7px 7px
+
+.tabla-a.color-secundario.estilo3
+  table
+    min-width: auto
+    text-align: left
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: left
+  td
+    text-align: left
+    background-color: white
+    padding: 7px 7px
