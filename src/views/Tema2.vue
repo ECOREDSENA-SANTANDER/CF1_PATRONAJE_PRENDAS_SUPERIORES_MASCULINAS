@@ -140,7 +140,7 @@
         .tarjeta.color-primario.p-3(data-aos="fade").mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/t2/pdf.png")
+              img(src="@/assets/curso/t2/documento.png")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
