@@ -27,6 +27,96 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.1  Universos del vestuario
 
+    .row.mb-5  
+      .titulo-sexto.color-acento-contenido
+        h5 Tabla 9. 
+        |  Clasificación de universos del vestuario por ocasión de uso
+      .tabla-a.color-secundario.estilo5
+        table
+          thead
+            tr
+              th(style="width:14%") Universo
+              th Uso
+              th Ejemplos
+          tbody
+            tr
+              td Formal
+              td Eventos elegantes, reuniones importantes, fiestas de etiqueta
+              td Trajes de gala, vestidos de noche, vestidos de gala
+            tr
+              td Informal casual
+              td Vida cotidiana, actividades diarias
+              td Pantalones en denim, camisetas, camisas, zapatillas, vestidos ligeros
+            tr
+              td Deportivo o funcional
+              td Actividad física, trabajo especializado
+              td Ropa deportiva, uniformes médicos, overoles
+            tr
+              td Oficina o ejecutivo
+              td Entornos laborales, negocios
+              td Trajes ejecutivos, blusas, pantalones de vestir
+            tr
+              td Ceremonia y festivo
+              td Bodas, graduaciones, eventos religiosos
+              td Vestidos largos, trajes formales, indumentaria cultural
+            tr
+              td Fantasía
+              td Teatro, cine, cosplay, carnaval
+              td Disfraces, vestuario teatral, trajes de época
+            tr
+              td Swinwear
+              td Playa, piscina, eventos recreativos
+              td Vestidos de baño, salidas de baño, vestidos para la playa y la piscina
+            tr
+              td Lingeriewear
+              td Prendas interiores
+              td Ropa interior
+            tr
+              td Sleepwear
+              td Para dormir o descansar
+              td Ropa de descanso, pijamas
+
+
+    .row.mb-5  
+      .col-lg-6.col-md-12.col-sm-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 10. 
+          |  Ocasión de uso por universo de vestuario
+        .tabla-a.color-secundario.estilo5
+          table
+            thead
+              tr
+                th Ocasión de uso
+                th Universo de vestuario
+            tbody
+              tr
+                td Protocollario
+                td Gala, Formal
+              tr
+                td Multiocasión
+                td Casual
+              tr
+                td Informal
+                td #[em Kakiwear]
+                  br
+                  | #[em Jeanswear]
+                  br
+                  | #[em Sportswear]
+                  br
+                  | #[em Activewear]
+                  br
+                  | #[em Leisurewear]
+              tr
+                td Complementos
+                td #[em Swinwear]
+                  br
+                  | #[em Beachwear]
+                  br
+                  | #[em Sleepwear]
+                  br
+                  | #[em Underwear]
+
+
     Separador  
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.2  Gamas de mercados en el sistema moda

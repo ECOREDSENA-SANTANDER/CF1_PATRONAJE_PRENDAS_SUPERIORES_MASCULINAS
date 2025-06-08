@@ -154,6 +154,11 @@ figcaption
 .bgrosado
   background-color: #F4E6E6
 
+.bgrosadoclaro
+  background-color: #F8F2F4
+
+.bg-color-20 
+
 .bgrojo
   background-color: #8F0000
 
@@ -358,7 +363,31 @@ table caption
   th
     line-height: 0
     text-align: center
+  th.izquierdo
+    text-align: start
   td
     text-align: center
     background-color: white
     padding: 8px 8px
+  td.izquierdo
+    text-align: start
+
+
+.tabla-a.color-secundario.estilo6
+  table
+    min-width: auto
+    text-align: center
+    @media (max-width: $bp-max-md)
+      min-width: 800px !important
+    @media (max-width: $bp-max-xs)
+      min-width: 800px !important    
+  th
+    line-height: 0
+    text-align: center
+  th.izquierdo
+    text-align: start
+  td
+    text-align: start
+    padding: 8px 8px
+  td.izquierdo
+    text-align: start

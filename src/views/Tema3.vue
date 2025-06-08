@@ -488,7 +488,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.2 Proporciones en la deducción de medidas
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-md-12.col-sm-12.bgrosado.borde-redondo
         .row.mt-5.mb-5
           p.px-5.mt-5.mb-4 El incremento proporcionado y secuenciado debe responder a estándares que permitan el ajuste de tallas, dado que se determina a partir de la identificación en la variación de unidades de medida entre trallas dentro de las diferentes líneas de la medición del cuerpo.
@@ -506,7 +506,74 @@
       .col-lg-6.col-md-8.col-sm-12
         img(src='@/assets/curso/t3/img7.png', alt='')
 
-    // falta tabla
+    .row.mb-5  
+      .titulo-sexto.color-acento-contenido
+        h5 Tabla 8. 
+        |  Medidas ajustadas por talla
+      .tabla-a.color-secundario.estilo5
+        table
+          thead
+            tr
+              th.izquierdo(style="width:14%") Medida
+              th.izquierdo Descripción
+              th(style="width:12%") Talla 8 (cm)
+              th(style="width:13%") Talla 10 (cm)
+              th(style="width:20%") Incremento / Proporción
+          tbody
+            tr
+              td.izquierdo Contorno de busto
+              td.izquierdo Medida horizontal alrededor del busto, sobre el punto más prominente.
+              td 88,0
+              td 92,0
+              td 4,0 cm
+            tr
+              td.izquierdo Contorno de cintura
+              td.izquierdo Circunferencia en la parte más estrecha del torso.
+              td 64,0
+              td 65,0
+              td 1,0 cm
+            tr
+              td.izquierdo Contorno de cadera
+              td.izquierdo Circunferencia tomada sobre la parte más prominente de las caderas.
+              td 92,0
+              td 93,0
+              td 1,0 cm
+            tr
+              td.izquierdo Ancho de espalda
+              td.izquierdo Medida horizontal entre hombros, por la parte posterior.
+              td 36,0
+              td 37,0
+              td 1,0 cm
+            tr
+              td.izquierdo Ancho de pecho
+              td.izquierdo Medida frontal entre un punto axilar y otro, sobre el pecho.
+              td 32,0
+              td 33,0
+              td 1,0 cm
+            tr
+              td.izquierdo Talle frente
+              td.izquierdo Largo vertical desde el hombro hasta la cintura por el frente.
+              td 42,0
+              td 42,5
+              td 0,5 cm
+            tr
+              td.izquierdo Talle atrás
+              td.izquierdo Largo vertical desde la base del cuello hasta la cintura en la espalda.
+              td 44,0
+              td 44,5
+              td 0,5 cm
+            tr
+              td.izquierdo Centro frente
+              td.izquierdo Distancia vertical desde la base del cuello al punto medio de la cintura frontal.
+              td 36,75
+              td 37,0
+              td 0,25 cm
+            tr
+              td.izquierdo Centro atrás
+              td.izquierdo Distancia desde la base posterior del cuello hasta la cintura en la espalda.
+              td 40,0
+              td 40,25
+              td 0,25 cm
 
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
