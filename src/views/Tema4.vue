@@ -27,6 +27,13 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.1  Universos del vestuario
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3.col-md-5.col-sm-12
+        img(src='@/assets/curso/t4/img3.png', alt='')
+      .col-lg-9.col-md-12.col-sm-12
+        p.mb-2 Los universos del vestuario se refieren a la clasificación del conjunto de prendas según el contexto y la ocasión de uso; las agrupaciones permiten organizar el vestuario en categorías coherentes en términos de tipologías, materiales textiles y criterios de aplicación.
+        p Cada universo responde a un uso específico (formal, casual, deportivo, funcional, entre otros) y facilita la estructuración del producto de moda en función de su propósito, estética y usuario final; esta categorización, además de orientar el diseño y la producción, contribuye a identificar con mayor precisión el mercado objetivo al que se dirige una colección o línea de productos.
+
     .row.mb-5  
       .titulo-sexto.color-acento-contenido
         h5 Tabla 9. 
@@ -76,9 +83,17 @@
               td Para dormir o descansar
               td Ropa de descanso, pijamas
 
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
+      .col-lg-4.col-md-6.col-sm-12 
+        img.p-0(src='@/assets/curso/t3/img2.png', alt='')
+      .col-lg-8.col-md-12.col-sm-12.p-0.mt-1
+        .row.bgamarilloclaro2.p-0
+          .col-auto.px-5.mt-5
+            h3.bgamarillo.p-1.mb-2 #[b Ocasión de uso]
+          p.px-5.mt-3 Se refiere a los diversos escenarios o contextos en los que una persona, o un grupo, utiliza una prenda específica. Esta elección no es aleatoria, sino que está determinada por acuerdos culturales que definen qué tipo de vestuario es apropiado según la situación. Como tal, la ocasión de uso está estrechamente vinculada con la #[b identidad cultural], tanto individual como colectiva, ya que refleja normas sociales, costumbres y significados simbólicos compartidos dentro de una comunidad.
 
-    .row.mb-5  
-      .col-lg-6.col-md-12.col-sm-12
+    .row.justify-content-center.align-items-center
+      .col-lg-6.col-md-10.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 10. 
           |  Ocasión de uso por universo de vestuario
@@ -115,11 +130,29 @@
                   | #[em Sleepwear]
                   br
                   | #[em Underwear]
-
+      .col-lg-6.col-md-8.col-sm-12
+        img(src='@/assets/curso/t4/img4.png', alt='')
 
     Separador  
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.2  Gamas de mercados en el sistema moda
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-5.col-md-7.col-sm-12
+        img(src='@/assets/curso/t4/img5.png', alt='')
+      .col-lg-7.col-md-12.col-sm-12
+        p.mb-2.mt-4 Las gamas de mercado en la industria de la moda se refieren a la segmentación de productos según el nivel de exclusividad, calidad, precio y tipo de consumidor al que están dirigidos. Las gamas permiten clasificar las líneas de mercado dentro del sector, facilitando la estrategia de diseño, producción y comercialización.
+        p En la siguiente figura se presenta una clasificación visual de estas gamas, desde el #[b mercado de lujo] hasta el #[b mercado masivo], pasando por gamas como #[b alta gama], #[b media] y #[b popular], cada una con características específicas en términos de diseño, materiales, producción y posicionamiento.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-6.col-md-8.col-sm-12
+        .titulo-sexto.color-acento-contenido.mt-3
+          h5 Figura 17.
+          | Sistema moda y gamas de mercado
+        figure
+          img.mb-3(src='@/assets/curso/t4/fig17.png', alt='La imagen representa la Pirámide de la Moda, una clasificación de la industria según la calidad y exclusividad de las prendas. Se divide en cinco niveles; Alta Costura, Moda de alta calidad, Gama media, Mercado de masas, Gama baja.')
+      .col-lg-6.col-md-8.col-sm-12
+        img(src='@/assets/curso/t4/img6.png', alt='')
 
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
       .row.justify-content-around.align-items-center
@@ -135,11 +168,33 @@
                 span Ir al sitio
                   i.fas.fa-play-circle.p-2
 
+    p.text-center A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
+
+
+    TabsC.color-secundario
+      .py-3.py-md-4(titulo="Concepto 1")
+        .row.align-items-center.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Alta costura o #[em haute couture]
+            p Se caracteriza por la elaboración de prendas exclusivas, confeccionadas a medida y solicitud de cliente, garantizando la exclusividad y no repetición de modelo en procesos de producción.  Este proceso es regulado por la Cámara Sindical de la Alta Costura, garantizando el proceso artesanal y de calidad llevado a cabo.       
+          .col-md-5
+            img(src='@/assets/curso/t4/img8.png', alt='Texto que describa la imagen')
+      
+      .py-3.py-md-4(titulo="Concepto 2")
+        .row.align-items-center.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Listo para llevar o #[em prêt-à-porter]
+            p La moda #[em prêt-à-porter] o listo para llevar, se caracteriza por producción de número reducido de prendas de un mismo modelo, siguiendo tendencias de alta costura y calidad de las prendas.   
+          .col-md-5
+            img(src='@/assets/curso/t4/img7.png', alt='Texto que describa la imagen')
+
+
 
     Separador  
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.3  Tipología de prendas masculinas
 
+    p.mb-4 Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. En este sentido, se presenta el siguiente video.
 
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
       .row.justify-content-around.align-items-center
