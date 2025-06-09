@@ -154,7 +154,7 @@
       .col-lg-6.col-md-8.col-sm-12
         img(src='@/assets/curso/t4/img6.png', alt='')
 
-    .tarjeta.color-primario.p-3(data-aos="fade").mb-4
+    .tarjeta.color-primario.p-3(data-aos="fade").mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/t1/play.png")
@@ -168,8 +168,7 @@
                 span Ir al sitio
                   i.fas.fa-play-circle.p-2
 
-    p.text-center A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
-
+    p.text-center.mb-5 A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
 
     TabsC.color-secundario
       .py-3.py-md-4(titulo="Concepto 1")
@@ -188,6 +187,22 @@
           .col-md-5
             img(src='@/assets/curso/t4/img7.png', alt='Texto que describa la imagen')
 
+      .py-3.py-md-4(titulo="Concepto 3")
+        .row.align-items-center.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Pronta moda o #[em fast fashion]
+            p.mb-4 En esta línea se maneja producción en masa de prendas cuyo fin es llegar al mayor número de personas posibles. Es un modelo de negocio que implementa estrategias de tendencias de corto plazo y calidad media baja en sus procesos de producción.
+            p Esta línea ha sido cuestionada en los últimos años dado el alto impacto ambiental generado, por el uso de elementos tóxicos y desperdicio textil.
+          .col-md-5
+            img(src='@/assets/curso/t4/img9.png', alt='Texto que describa la imagen')
+
+      .py-3.py-md-4(titulo="Concepto 4")
+        .row.align-items-center.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Moda lenta o #[em slow fashion]
+            p Línea surgida a partir del impacto ambiental generado en el #[em fast fashion], busca la circularidad de los productos en la reutilización de los materiales de las prendas usadas, así mismo, implementa estrategias para el cero impacto ambiental fomentando la sostenibilidad en la industria. 
+          .col-md-5
+            img(src='@/assets/curso/t4/img10.png', alt='Texto que describa la imagen')
 
 
     Separador  
@@ -210,6 +225,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/leHGYnfUxGk" target="_blank")
                 span Ir al sitio
                   i.fas.fa-play-circle.p-2
+
 
 
 
