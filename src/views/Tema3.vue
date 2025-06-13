@@ -44,7 +44,7 @@
         .row.bgverdemate.p-3
           .titulo-sexto.color-acento-contenido.mt-3
             h5 Figura 14.
-            |  Canon femenino con 8 cabezas
+            |  Canon masculino con 8 cabezas
           .row.align-items-center.justify-content-center
             .col-lg-8.col-md-10.col-sm-12
               img.mb-3(src='@/assets/curso/t3/fig14.png', alt='La figura representa el canon de proporción masculina basado en ocho cabezas. El cuerpo está segmentado horizontalmente en ocho partes iguales, cada una equivalente al tamaño de la cabeza, lo que sirve como referencia para el estudio y diseño de proporciones corporales en anatomía artística o moda.')
@@ -53,7 +53,7 @@
         .row.bgrosado.mx-2.p-3
           .titulo-sexto.color-acento-contenido.mt-3
             h5 Figura 15.
-            |  Proporción de la figura humana Vitruvian
+            |  Proporción de la figura humana #[em Vitruvian]
           .row.align-items-center.justify-content-center
             .col-lg-11.col-md-11.col-sm-12
               img.mb-3(src='@/assets/curso/t3/fig15.png', alt='La imagen presenta el Hombre de Vitruvio, un dibujo anatómico clásico de Leonardo da Vinci. Representa una figura humana masculina desnuda con brazos y piernas extendidos en dos posiciones superpuestas. El cuerpo está inscrito dentro de un círculo y un cuadrado, simbolizando las proporciones ideales del ser humano. El trazo es lineal y detallado.')
@@ -82,7 +82,7 @@
           h5 Figura 16.
           | Proporción de acuerdo con las etapas de crecimiento
         figure
-          img.mb-3(src='@/assets/curso/t3/fig16.png', alt='La figura representa el canon de proporción masculina basado en ocho cabezas. El cuerpo está segmentado horizontalmente en ocho partes iguales, cada una equivalente al tamaño de la cabeza, lo que sirve como referencia para el estudio y diseño de proporciones corporales en anatomía artística o moda.')
+          img.mb-3(src='@/assets/curso/t3/fig16.png', alt='La figura representa la proporción del cuerpo humano en diferentes etapas del crecimiento, desde el primer año de vida hasta la adultez. Cada etapa está ilustrada mediante la cantidad de cabezas que caben en la altura total del cuerpo, evidenciando cómo varía esta proporción a medida que avanza la edad.')
         figcaption Fuente: https://lapizuri.weebly.com/proporcioacuten-del-cuerpo-humano.html
 
     Separador  
@@ -99,7 +99,7 @@
           h5 Tabla 3. 
           |  Fórmulas de medidas deducidas
         .tabla-a.color-secundario.estilo2.mt-4
-          table
+          table(alt="Tabla con las fórmulas de medidas deducidas de pecho, cadera, cintura, estatura, talle, cintura/suelo, largo de brazo, estatura total y base, cada una con su equivalencia de fórmula de deducción. ")
             thead
               tr
                 th Parte del cuerpo
@@ -131,7 +131,7 @@
                 td Estatura 7ac + 20 cm
               tr
                 td Base
-                td Pecho + desahogo (4 cm) + costura 2 cm
+                td Pecho + desahogo (4 cm) + costura (2 cm)
 
       .col-lg-3.col-md-12.col-sm-12
         .row.bgrosado.borde-redondo.px-4
@@ -152,7 +152,7 @@
           h5 Tabla 4. 
           |  Fórmulas para deducción de medidas corporales
         .tabla-a.color-secundario.estilo3.mt-4
-          table 
+          table(alt="La tabla presenta fórmulas de cálculo de medidas corporales utilizadas en patronaje y confección. Se dividen en tres categorías: medidas horizontales, que incluyen busto, cintura, cadera y extremidades; medidas verticales, como estatura, altura de busto y largo de brazo; y otras fórmulas de deducción, basadas en la edad o proporciones del cuerpo.")
             caption Nota: 7ac hace referencia a toma de medida del cuello hasta la planta del pie.
             thead
               tr
@@ -186,7 +186,7 @@
                       span.mb-0 Cadera = busto + 4 cm.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cuello =1 / 2 busto + 12 cm. 
+                      span.mb-0 Cuello = 1 / 2 busto + 12 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Rodilla = 1 / 4 busto + 24 cm. 
@@ -272,7 +272,7 @@
           h5 Tabla 5. 
           |  Medidas deducidas
         .tabla-a.color-secundario.estilo4.mt-4
-          table
+          table(alt="La tabla presenta medidas corporales junto con sus fórmulas de cálculo y resultados aplicados a un caso específico. Se incluyen dimensiones clave como estatura total, tórax máximo, cadera, pecho, cintura y largo de brazo, utilizando relaciones matemáticas para su determinación.")
             thead
               tr
                 th Medida
@@ -325,7 +325,7 @@
           h5 Tabla 6. 
           |  Grupos de tallas
         .tabla-a.color-secundario.estilo5.mt-4
-          table
+          table(alt="La tabla expone medidas de referencia para distintas tallas (XS/6, S/8, M/10, L/12) con un incremento entre variables de 2 cm en algunas dimensiones. Se incluyen datos de: tórax máximo y estatura total, mientras que otras medidas como cadera, pecho, cintura, talle, largo de brazo y cuello aún deben completarse.")
             thead
               tr
                 th Talla
@@ -402,7 +402,7 @@
           h5 Tabla 7. 
           |  Aplicación de fórmulas
         .tabla-a.color-secundario.estilo5.mt-4
-          table
+          table(alta="La tabla presenta medidas corporales y sus cálculos para la talla 6 (XS/6) Se incluyen áreas corporales de tórax máximo, cadera, pecho, cintura, estatura total, talle, largo de brazo, cuello y cintura al suelo, con fórmulas matemáticas para deducción. ")
             caption Nota: medidas dadas en centímetros.
             thead
               tr
@@ -511,7 +511,7 @@
         h5 Tabla 8. 
         |  Medidas ajustadas por talla
       .tabla-a.color-secundario.estilo5
-        table
+        table(alt="La tabla presenta un conjunto de medidas corporales comparativas entre las tallas 8 y 10, utilizadas para el diseño y ajuste de prendas de vestir. Incluye contornos (busto, cintura, cadera), anchos (espalda, pecho) y largos verticales (talle y centro, tanto frontal como posterior). Cada medida va acompañada de su descripción técnica y del incremento proporcional que ocurre entre una talla y otra, lo que permite realizar una gradación precisa en el patronaje. Esta información es clave para garantizar el ajuste y la ergonomía en la confección de ropa.")
           thead
             tr
               th.izquierdo(style="width:14%") Medida

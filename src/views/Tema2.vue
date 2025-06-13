@@ -26,7 +26,7 @@
       .col-lg-3.col-md-4.col-sm-12
         img(src='@/assets/curso/t2/img3.png', alt='')
 
-    p.mb-5.text-center Existen principalmente dos sistemas de medición utilizados en el patronaje:
+    p.mb-5 Existen principalmente dos sistemas de medición utilizados en el patronaje:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.bgfondotar1.p-4.p-md-4.p-lg-5(data-aos="fade-right")
@@ -45,8 +45,8 @@
               .col-lg-3.mb-4
                 img.img-a.img-t(src='@/assets/curso/t2/img5.png', alt='Imagen decorativa.')
               .col-lg-7
-                h2.mb-4.bgrojo.text-white.borde-redondo-der.px-3 Sistema internacional ométrico decimal
-            p.mb-0 Tiene como unidad básica el metro (y sus subdivisiones, como el centímetro). Es el sistema más utilizado en países latinoamericanos y en gran parte del mundo. hace referencia al sistema de unidades en donde los múltiplos o submúltiplos de las unidades de igual naturaleza siguen la escala decimal (10).
+                h2.mb-4.bgrojo.text-white.borde-redondo-der.px-3 Sistema internacional o métrico decimal
+            p.mb-0 Tiene como unidad básica el metro (y sus subdivisiones, como el centímetro). Es el sistema más utilizado en países latinoamericanos y en gran parte del mundo; hace referencia al sistema de unidades en donde los múltiplos o submúltiplos de las unidades de igual naturaleza siguen la escala decimal (10).
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
       .col-lg-4.col-md-6.col-sm-12 
@@ -89,6 +89,8 @@
           .col-lg-11.col-md-11.col-sm-12
             img.mb-4(src='@/assets/curso/t2/fig13.png', alt='La figura presenta una escala en centímetros, correspondiente al sistema métrico. La regla está graduada de 0 a 25 centímetros, con subdivisiones en milímetros, lo que permite mediciones precisas en décimas de centímetro. Cada número entero representa un centímetro completo.')
 
+    p.mb-5 #[b El centímetro:] es una unidad de medida del sistema métrico decimal, equivalente a la centésima parte de un metro; se utiliza ampliamente en la medición de cuerpos.
+
     .row.bgverde.mx-5.borde-redondo.movercajonverde(data-aos="fade-right")
       h3.text-white.text-center.px-5.py-4 Los dos tipos de sistemas son utilizados en diferentes áreas y cadenas productivas teniendo en cuenta que algunos estándares están trabajados en medidas diferentes a las que usa oficialmente el país.
     .row.justify-content-center.align-items-center.bgrosado.movercajonrosado.px-4
@@ -99,7 +101,7 @@
           h5 Tabla 2. 
           |  Análisis de unidades
         .tabla-a.color-secundario.estilo1.mb-4
-          table
+          table(alt="Se describe una tabla con las unidades del sistema métrico decimal. Se organiza en tres columnas: nombre de la unidad, abreviatura y su equivalencia en metros. Incluye desde el kilómetro (1000 m) hasta el milímetro (0.001 m), pasando por unidades como hectómetro, decámetro, decímetro y centímetro.")
             thead
               tr
                 th Nombre
@@ -161,6 +163,8 @@
       .col-lg-9.col-md-12.col-sm-12
         .row.bgverdeclaro
           p.px-5.py-4.mt-4.mb-2 Son unidades numéricas que representan el tamaño de un objeto, figura o parte específica; en el patronaje de prendas de vestir, estos datos se obtienen utilizando una cinta métrica de forma lineal para medir diferentes partes del cuerpo, considerando largo, ancho y contorno. En Colombia, es común emplear tanto centímetros como pulgadas para este proceso.
+
+    p.mb-5 A continuación, se destacan aspectos clave para tener en cuenta:
 
     .subt.mb-5(data-aos="fade-right")
       .row.align-items-center
