@@ -20,7 +20,7 @@
             br
             br
 
-      p.text-center A continuación, podrá encontrar los conceptos relacionados a la estructura corporal.
+      p A continuación, podrá encontrar los conceptos relacionados a la estructura corporal.
 
       Separador  
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -43,11 +43,11 @@
                   | Medidas corporales segmentadas
               figure
                 img(src='@/assets/curso/t1/fig1.png', alt='La imagen presenta esquemas anatómicos de un hombre, una mujer y un niño con medidas antropométricas en centímetros, destacando proporciones corporales clave. Estos datos son esenciales para el diseño ergonómico, el patronaje y estudios biomecánicos.')
-              figcaption Fuente: https://www.timetoast.com/timelines/pasos-para-realizar-una-adecuada-evaluacion-nutricional-antropometrica.
+              figcaption Fuente: https://www.timetoast.com/timelines/pasos-para-realizar-una-adecuada-evaluacion-nutricional-antropometrica
 
 
       .row.justify-content-center.align-items-center.bgazulclaro
-        p.text-center.p-3 En el ámbito del vestuario, la antropometría se aplica mediante el análisis ergonómico, con el objetivo de diseñar prendas que se ajusten adecuadamente al cuerpo y faciliten el movimiento.
+        p.p-3 En el ámbito del vestuario, la antropometría se aplica mediante el análisis ergonómico, con el objetivo de diseñar prendas que se ajusten adecuadamente al cuerpo y faciliten el movimiento.
 
       Separador  
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -128,7 +128,7 @@
       p.mb-4.mt-4 #[b Por ejemplo:] un pantalón que limita la flexión de la rodilla puede causar incomodidad e incluso afectar negativamente la movilidad y salud de la articulación.
 
       .row.justify-content-center.align-items-center.mb-5.bgrosado.borde-redondo
-        p.text-center.p-3.mt-2 #[b Por ello, uno de los desafíos en el diseño de moda es desarrollar prendas ergonómicas, considerando tanto la estructura corporal como los materiales utilizados en su confección. La selección textil y la construcción del patrón deben responder a criterios que aseguren movilidad, comodidad y ajuste eficiente.]
+        p.px-5.py-3.mt-2 #[b Por ello, uno de los desafíos en el diseño de moda es desarrollar prendas ergonómicas, considerando tanto la estructura corporal como los materiales utilizados en su confección. La selección textil y la construcción del patrón deben responder a criterios que aseguren movilidad, comodidad y ajuste eficiente.]
 
       .row.mb-4
         h3.pr-3.py-0 Relación entre conceptos y estructura corporal:
@@ -144,7 +144,7 @@
               img(src='@/assets/curso/t1/img8.png', alt='')
             .col.mt-3
               h3.text-white.bgrojo.text-center Antropometría
-              p Se relaciona con las medidas corporales.
+              p Se relaciona con las medidas y proporciones corporales.
           .row.justify-content-center.align-items-center.mb-3.bgverdemate.px-4.py-2.borde-redondo
             .col-auto
               img(src='@/assets/curso/t1/img9.png', alt='')
@@ -156,7 +156,7 @@
               img(src='@/assets/curso/t1/img10.png', alt='')
             .col.mt-3
               h3.text-white.bgrojo.text-center Ergonomía
-              p Abarca la postura.
+              p Abarca la postura y confort funcional.
         .col-lg-4.col-md-12.col-sm-12.p-3.mt-0
           .row.justify-content-center.align-items-center.mb-3.bgverdemate.px-4.py-2.borde-redondo
             .col-auto
@@ -169,7 +169,7 @@
               img(src='@/assets/curso/t1/img12.png', alt='')
             .col.mt-3
               h3.text-white.bgrojo.text-center Morfología
-              p Hace referencia a la geometría del cuerpo (huesos y uniones).
+              p Forma y disposición de las partes del cuerpo.
 
       Separador
       #t_1_6.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -189,7 +189,7 @@
                 h5 Figura 4. 
                 |  División del cuerpo
               figure
-                img(src='@/assets/curso/t1/fig4.png', alt='Esquema de un cuerpo humano dividido en regiones anatómicas, cada una diferenciada por un color. Las etiquetas identifican cabeza, cráneo, cara, cuello, tórax, abdomen, pelvis, brazo, antebrazo, mano, muslo, pierna y pie. Los términos “miembro superior” y “miembro inferior” agrupan extremidades.')
+                img(src='@/assets/curso/t1/fig4.png', alt='La figura presenta la división anatómica del cuerpo humano en regiones principales. Incluye la cabeza, subdividida en cráneo y cara; el cuello; el tronco, compuesto por tórax, abdomen y pelvis; los miembros superiores, que abarcan brazo, antebrazo y mano; y los miembros inferiores, integrados por muslo, pierna y pie.')
         .col-lg-6.col-md-12.col-sm-12.px-5.py-0
           p.mb-5.mt-5 Teniendo en cuenta la segmentación corporal, las prendas de vestir se clasifican según los miembros superiores e inferiores, lo que permite definir su diseño, funcionalidad y ajuste de manera más precisa.
           .row.bgamarilloclaro.p-4.borde-redondo.mb-5
@@ -229,7 +229,7 @@
           ul.lista-ul--color.fa-al
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Estructura corporal.
+              span.mb-0 Estructura corporal
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Anatomía
@@ -254,7 +254,7 @@
           ul.lista-ul--color.fa-al
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Doshas
+              span.mb-0 #[em Doshas]
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Siluetas
@@ -293,7 +293,7 @@
               h5 Figura 5. 
               |  Tipos de silueta masculina
             .col-lg-10.col-md-12.col-sm-12
-              img.mb-4(src='@/assets/curso/t1/fig5.png', alt='La figura presenta cinco figuras humanas de pie que representan diferentes tipos de cuerpo masculino. De izquierda a derecha, cada figura corresponde a un somatotipo específico, identificado por un símbolo geométrico en la parte inferior: triángulo invertido, rectángulo, óvalo, triángulo y triángulo invertido modificado.')
+              img.mb-4(src='@/assets/curso/t1/fig5.png', alt='Cinco figuras humanas masculinas en ropa interior representan diferentes tipos de silueta corporal: triángulo invertido, rectángulo, óvalo, triángulo y trapecio. Cada una está acompañada por un símbolo geométrico en la parte superior que ilustra su forma corporal característica.')
 
       .row.mb-4
         h3.pr-3.py-0 Tipos de siluetas reconocidas
@@ -310,7 +310,7 @@
               .row.bgblanco.borde-redondo.justify-content-center.align-items-center.p-3
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 6.
-                  | Silueta triangulo invertido
+                  | Silueta triángulo invertido
                 .col-lg-8.col-md-10.col-sm-12
                   img.mb-1(src='@/assets/curso/t1/fig6.png', alt='La figura representa una silueta corporal masculina con forma de triángulo invertido. Esta morfología se caracteriza por hombros anchos y torso amplio en comparación con una cintura y caderas más estrechas.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 2")
@@ -346,7 +346,7 @@
               .row.bgblanco.borde-redondo.justify-content-center.align-items-center.p-3
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 9. 
-                  | Silueta en triangulo
+                  | Silueta en triángulo
                 .col-lg-8.col-md-10.col-sm-12
                   img.mb-1(src='@/assets/curso/t1/fig9.png', alt='La imagen presenta una figura humana masculina de pie. La complexión corporal detalla mayor amplitud en la parte inferior, específicamente en caderas y muslos, mientras que el torso es más estrecho. Esta figura representa un somatotipo triangular. Debajo de la figura hay un triángulo apuntando hacia arriba, que simboliza la forma corporal.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 5")
@@ -392,7 +392,7 @@
 
             .tarjeta.color-adiconal-1.p-3(x="16%" y="17%" numero="+")
               .h5.mb-2 Ectomorfo
-              p El somatotipo ectomorfo se caracteriza por un cuerpo delgado, estructura ósea fina, hombros estrechos y bajo porcentaje de masa muscular. En el patronaje de prendas superiores masculinas, es clave incorporar recursos que generen volumen visual en el torso y los hombros. Se recomienda el uso de cortes que amplíen la estructura, como pinzas sutiles, mangas ligeramente más amplias o solapas. estructuradas, buscando un ajuste equilibrado sin acentuar la delgadez natural.
+              p El somatotipo ectomorfo se caracteriza por un cuerpo delgado, estructura ósea fina, hombros estrechos y bajo porcentaje de masa muscular. En el patronaje de prendas superiores masculinas, es clave incorporar recursos que generen volumen visual en el torso y los hombros. Se recomienda el uso de cortes que amplíen la estructura, como pinzas sutiles, mangas ligeramente más amplias o solapas estructuradas, buscando un ajuste equilibrado sin acentuar la delgadez natural.
 
             .tarjeta.color-adiconal-1.p-3(x="50%" y="17%" numero="+")
               .h5.mb-2 Mesomorfo
@@ -412,7 +412,7 @@
       p.mb-5 El análisis morfológico masculino a través de los somatotipos no solo permite optimizar el ajuste de las prendas, sino que también responde a necesidades estéticas y simbólicas propias de cada usuario. El patronaje, en este contexto, se convierte en una herramienta para equilibrar proporciones, favorecer la movilidad y proyectar una imagen corporal deseada.
 
       .tarjeta--container.row.mb-4
-        .col-md-6.tarjeta.color1.p-4.p-md-4.p-lg-5(data-aos="fade-right")
+        .col-md-12.col-lg-6.tarjeta.color1.p-4.p-md-4.p-lg-5(data-aos="fade-right")
           .row.justify-content-center.mb-4
             h3.mb-5.mt-2 Cada somatotipo plantea retos y oportunidades de diseño específicos:
             ul.lista-ul--color.fa-al
@@ -425,25 +425,25 @@
               li 
                 i.fas.fa-chevron-circle-right
                 span.mb-0 En el endomorfo, el reto está en generar fluidez y verticalidad, disimulando acumulaciones sin limitar el confort.
-        .col-md-6.tarjeta.p-0(data-aos="fade-left")
+        .col-md-12.col-lg-6.tarjeta.p-0(data-aos="fade-left")
           img(src='@/assets/curso/t1/img15.png', alt='')
 
       .tarjeta--container.row.mb-5
-        .col-md-6.tarjeta.p-0(data-aos="fade-right")
+        .col-md-12.col-lg-6.tarjeta.p-0(data-aos="fade-right")
           img(src='@/assets/curso/t1/img16.png', alt='')
-        .col-md-6.tarjeta.color2.p-4.p-md-4.p-lg-5(data-aos="fade-left")
-          .row.justify-content-center.mb-1
-            h3.mt-2.mb-5 Prendas inferiores
+        .col-md-12.col-lg-6.tarjeta.color2.p-4(data-aos="fade-left")
+          .row.justify-content-center
+            h3.mt-5.mb-5 Consideraciones de diseño de prendas superiores masculinas:
             ul.lista-ul--color.fa-al
               li 
                 i.fas.fa-chevron-circle-right
-                span.mb-0 #[b Caderas y glúteos:] abarcan prendas como pantalones, bermudas, leggins y shorts.
+                span.mb-0 Funcionalidad y estética deben ir de la mano. No basta con que una prenda se vea bien; debe permitir el movimiento natural del cuerpo y responder a las particularidades de cada somatotipo.
               li 
                 i.fas.fa-chevron-circle-right
-                span.mb-0 #[b Muslos y piernas:] zonas determinantes para el ajuste y la comodidad de las prendas inferiores.
+                span.mb-0 El tipo de tejido y el corte son tan importantes como las medidas. Un buen diseño considera la caída del textil, su peso y comportamiento ante el uso.
               li 
                 i.fas.fa-chevron-circle-right
-                span.mb-0 #[b Tobillos y pies:] asociadas a prendas complementarias como medias o prendas de cobertura inferior.
+                span.mb-0 La personalización del patronaje contribuye a la inclusión corporal. Entender la diversidad de cuerpos permite diseñar prendas más democráticas y emocionalmente significativas para quien las usa.
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-lg-12.col-md-12.col-sm-12
@@ -452,7 +452,7 @@
             |  Comparativo entre somatotipos masculinos
 
           .tabla-a.color-secundario
-            table
+            table(alt="Tabla comparativa que organiza la información sobre los tres somatotipos masculinos: ectomorfo, mesomorfo y endomorfo. Cada fila describe las características corporales, las estrategias de patronaje y las recomendaciones de diseño correspondientes a cada tipo de cuerpo. El contenido está distribuido en cuatro columnas que facilitan la lectura técnica y permiten identificar las diferencias morfológicas y sus implicaciones en el diseño de prendas superiores.")
               thead
                 tr
                   th(style="width:130px") Somatotipo
@@ -467,7 +467,7 @@
                   td
                     | #[b Cuello:] mandarín o clásico estructurado.
                     br
-                    | #[b Corte:] recto o semiestructurado.
+                    | #[b Corte:] recto o semidesestructurado.
                     br
                     | #[b Textil:] algodones medianos o tejidos con cuerpo.
                 tr
@@ -485,9 +485,9 @@
                   td Estructura ancha, acumulación de volumen en abdomen y pecho, extremidades cortas en proporción.
                   td Buscar verticalizar la figura. Incorporar holgura controlada para estilizar el torso sin generar exceso de tela.
                   td
-                    | #[b Cuello:] semiablobeto o en “V” discreto.
+                    | #[b Cuello:] semiabierto o en “V” discreto.
                     br
-                    | #[b Corte:] #[em regular fit] con ledaje ajuste en cintura baja.
+                    | #[b Corte:] #[em regular fit] con leve ajuste en cintura baja.
                     br
                     | #[b Textil:] linos o algodones livianos y de caída fluida.
 
@@ -498,7 +498,7 @@
               .col-auto
                 img.px-3.py-4.mt-4.mb-5(src='@/assets/curso/t1/img18.png', alt='')
               .col
-                p.mb-4.mt-5.mx-4 Lo invitamos a escuchar el siguiente Pódcast:
+                p.mb-4.mt-5.mx-4 Lo invitamos a escuchar el siguiente pódcast:
                 TarjetaAudio.color-secundario.mb-5.mx-2(
                   texto="Patronaje masculino y somatotipos"
                   :audio="require('@/assets/curso/t1/audio1.mp3')"
