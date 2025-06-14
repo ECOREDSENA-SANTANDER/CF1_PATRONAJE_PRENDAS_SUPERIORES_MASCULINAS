@@ -396,12 +396,12 @@ export default {
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Centro Agroturístico – Regional Santander ',
+          centro: 'Centro Agroturístico - Regional Santander ',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro Agroturístico – Regional Santander ',
+          centro: 'Centro Agroturístico - Regional Santander ',
         },
       ],
     },
