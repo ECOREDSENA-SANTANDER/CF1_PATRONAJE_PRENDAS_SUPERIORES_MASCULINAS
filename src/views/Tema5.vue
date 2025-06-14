@@ -20,7 +20,7 @@
         figure
           img(src='@/assets/curso/t5/fig18.png', alt='La figura presenta el proceso manual de manejo de fibras textiles, en el que una persona separa y prepara material fibroso, posiblemente para su hilado o procesamiento posterior. Las manos interactúan directamente con las fibras, que están dispuestas sobre una superficie.')
 
-    p.mb-4.text-center Las fibras se clasifican según su origen en dos grupos principales:
+    p.mb-4 Las fibras se clasifican según su origen en dos grupos principales:
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6.col-md-8.col-sm-12.p-0.bgverdemate.borde-redondo-izq
@@ -44,7 +44,7 @@
         h5 Tabla 11. 
         |  Clasificación de las fibras
       .tabla-a.color-secundario.estilo6
-        table(alt="La tabla contiene una tabla organizada que clasifica las fibras textiles en dos grandes grupos: fibras naturales y fibras químicas, según su origen y composición.")
+        table(alt="Tabla organizada que clasifica las fibras textiles en dos grandes grupos: fibras naturales y fibras químicas, según su origen y composición.")
           tr
             td(rowspan="7").fw-bold.bgrosadoclaro.izquierdo(style="width:14%") Fibras naturales
             td(rowspan="2").fw-bold.bgrosadoclaro(style="width:12%") Animales
@@ -70,7 +70,7 @@
           // Fibras naturales - Minerales
           tr
             td.fw-bold.bgrosadoclaro(style="width:12%") Minerales
-            td.bgrosadoclaro(colspan="1") Asbestos, fibra de vidrio, fibra de carbono.
+            td.quitarborde.bgrosadoclaro(colspan="1") Asbestos, fibra de vidrio, fibra de carbono.
             td.bgrosadoclaro
           tr
             td(rowspan="7").fw-bold.bgazulclaro.izquierdo(style="width:14%") Fibras químicas
@@ -79,7 +79,7 @@
             td.bgazulclaro De la caseína de la leche (fibroína), de algas (alginato).
           tr
             td.bgazulclaro Base celulósica.
-            td.bgazulclaro Rayones (viscosa, cupro, acetato).
+            td.bgazulclaro Rayones (viscosa, #[em crupón], acetato).
           tr
             td.bgazulclaro Base metálica.
             td.bgazulclaro Oro, plata, cobre.
@@ -104,8 +104,8 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-md-12.col-sm-12
-        p.mb-4 El hilo es un conjunto de fibras textiles, continuas o discontinuas, que se tuercen entre sí para formar una hebra larga, resistente y flexible, utilizada directamente en la fabricación de tejidos.
-        p.mb-0 La hilatura es el proceso mediante el cual se hilan los filamentos, transformándolos en hebras preparadas para la construcción de hilos y su posterior uso en la elaboración de telas.
+        p.mb-4 #[b El hilo] es un conjunto de fibras textiles, continuas o discontinuas, que se tuercen entre sí para formar una hebra larga, resistente y flexible, utilizada directamente en la fabricación de tejidos.
+        p.mb-0 #[b La hilatura] es el proceso mediante el cual se hilan los filamentos, transformándolos en hebras preparadas para la construcción de hilos y su posterior uso en la elaboración de telas.
       .col-lg-2.col-md-3.col-sm-12
         img(src='@/assets/curso/t5/img2.png', alt='')
 
@@ -113,7 +113,7 @@
       .titulo-sexto.color-acento-contenido
         h5 Figura 19. 
         | Hilaturas
-      img(src='@/assets/curso/t5/fig19.png', alt='')
+      img(src='@/assets/curso/t5/fig19.png', alt='La figura presenta tres etapas del proceso textil artesanal. A la izquierda, se representa el hilado manual con huso y fibras vegetales. Al centro, un telar de madera en uso, con herramientas y tejidos en desarrollo. A la derecha, se exhiben madejas de hilo organizadas y manipuladas con las manos, listas para ser utilizadas.')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-2.col-md-3.col-sm-12
@@ -156,20 +156,20 @@
           tr
             td.bgamarilloclaro3.text-left(rowspan="3") Ligamentos derivados
           
-            td.bgamarilloclaro3.text-left Esterilla/canastra
+            td.bgamarilloclaro3.text-left Esterilla/panamá/canastra
           tr
-            td.bgamarilloclaro3.text-left  Esterilla / Espiga
+            td.bgamarilloclaro3.text-left  Espina/espiga
           tr
-            td.bgamarilloclaro3.text-left Sarga interrumpida #[em (broken Twill)]
+            td.bgamarilloclaro3.text-left Sarga interrumpida #[em (broken twill)]
           tr.bgamarilloclaro3
             td.bgamarilloclaro3.text-left Otros
-            td.bgamarilloclaro3.text-left Dobby, jacquard, riso, afelpados etc
+            td.bgamarilloclaro3.text-left Dobby, jacquard, riso, afelpados, etc.
           tr
             td(rowspan="5").bgamarilloclaro3.fw-bold.w-25.text-left Punto
             td(rowspan="2").bgamarilloclaro3.text-left Por trama
-            td.bgamarilloclaro3.text-left Sencillo (jersey, lacoste)
+            td.bgamarilloclaro3.text-left Sencillo (#[em jersey], #[em lacoste])
           tr
-            td.bgamarilloclaro3.text-left Doble (rib o resortado, #[em interlock], piqué)
+            td.bgamarilloclaro3.text-left Doble (#[em rib] o resortado, #[em interlock], piqué)
           tr
             td.bgamarilloclaro3.text-left(rowspan="3") Por urdimbre
           tr 
@@ -221,7 +221,7 @@
               .row.justify-content-center.align-items-center.mb-0(titulo="Paso 1")
                 .col-sm-12.col-lg-6.col-md-12
                   h4.mb-4 Trazado de las piezas del patrón
-                  p.mb-4 Colocar las piezas del patrón sobre la tela respetando:
+                  p.mb-4 Coloque las piezas del patrón sobre la tela respetando lo siguiente:
                   ul.lista-ul--color.fa-al
                     li           
                       i.fas.fa-chevron-circle-right
@@ -266,7 +266,7 @@
                       .titulo-sexto.color-acento-contenido
                         h5 Figura 21. 
                         | Ejemplo de aplicación
-                      img(src='@/assets/curso/t5/fig20.png', alt='La imagen presenta un ejemplo aplicado de la fórmula de aprovechamiento de tela. Se divide un área útil de 1.15 metros cuadrados entre un área total de 1.5 metros cuadrados, y el resultado se multiplica por 100. El aprovechamiento obtenido es del 76.67 %, lo que indica que se utiliza eficientemente esa proporción del material disponible.')
+                      img(src='@/assets/curso/t5/fig21.png', alt='La imagen presenta un ejemplo aplicado de la fórmula de aprovechamiento de tela. Se divide un área útil de 1.15 metros cuadrados entre un área total de 1.5 metros cuadrados, y el resultado se multiplica por 100. El aprovechamiento obtenido es del 76.67 %, lo que indica que se utiliza eficientemente esa proporción del material disponible.')
 
     .subt2.mb-5(data-aos="fade-right")
       .row.align-items-center

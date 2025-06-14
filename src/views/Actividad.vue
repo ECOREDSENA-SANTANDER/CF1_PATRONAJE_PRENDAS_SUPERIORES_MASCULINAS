@@ -20,7 +20,7 @@ export default {
       tema: 'Estructura corporal masculina',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales sobre estructura corporal, siluetas y somatotipo masculinos.',
+        '<b> Objetivo: </b> evaluar la comprensión de los conceptos fundamentales sobre estructura corporal, siluetas y somatotipos masculinos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -257,7 +257,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Felicidades! Ha demostrado un gran conocimiento sobre La “Estructura Corporal Masculina”. ¡Continúe aprendiendo y explorando este apasionante tema!',
+        '¡Felicidades! Ha demostrado un gran conocimiento sobre la “Estructura Corporal Masculina”. ¡Continúe aprendiendo y explorando este apasionante tema!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

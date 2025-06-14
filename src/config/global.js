@@ -222,27 +222,27 @@ export default {
     {
       termino: 'Diseño',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemática.',
+        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
     },
     {
       termino: 'Estilo',
       significado:
-        'manifestación personal de cada individuo según las características propias y comunicación a través de su actividad y vestuario. En el estilo se manifiesta la identidad de la persona que está fundamentada en la unidad que se refleja a partir de la relación existente entre el ser y sus aspectos exterior y la apariencia.',
+        'manifestación personal de cada individuo según las características propias y comunicación a través de su actividad y vestuario. En el estilo se manifiesta la identidad de la persona que está fundamentada en la unidad que se refleja a partir de la relación existente entre el ser y su aspectos exterior o la apariencia.',
     },
     {
       termino: '<em>Outfit</em>',
       significado:
-        'conjunto de prendas combinadas de una manera determinada. Designa un entendiendo concreto, pero también se ha popularizado hasta el punto de emplearse como sinónimo del término genérico conjunto.',
+        'conjunto de prendas combinadas de una manera determinada. Designa un entendiendo concreto, pero su uso se ha popularizado hasta el punto de emplearse como sinónimo del término genérico conjunto.',
     },
     {
       termino: 'Corte asimétrico',
       significado:
-        'estructura de las prendas, más ciertas por delante que por detrás, con la que se consigue el llamado «efecto cula» en faldas y vestidos.',
+        'estructura de las prendas, más cortas por delante que por detrás, con la que se consigue el llamado «efecto cula» en faldas y vestidos.',
     },
     {
       termino: 'Tipología',
       significado:
-        'estudio de las tipologías y modelos que se usan para clasificar en diversas ciencias y disciplinas.',
+        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias y disciplinas.',
     },
     {
       termino: '<em>T-shirt</em>',
@@ -264,7 +264,7 @@ export default {
         'en lo referente al oficio del patronista, el trazo de un plan hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
     },
     {
-      termino: 'Patrón',
+      termino: 'Patronaje',
       significado:
         'oficio dedicado a la creación de patrones en la línea de vestuario que permitan la construcción de prendas de vestir.',
     },
@@ -298,8 +298,8 @@ export default {
     },
     {
       referencia:
-        'Gutiérrez Rengifo, L., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., & Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Bogotá: SENA, Japan International Cooperation Agency (JICA).',
-      link: '',
+        'Gutiérrez Rengifo, L., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., & Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje (SENA) & Japan International Cooperation Agency (JICA).',
+      link: 'https://repositorio.sena.edu.co/handle/11404/4725',
     },
     {
       referencia:
@@ -328,8 +328,9 @@ export default {
     },
     {
       referencia:
-        'King, W. (1965). Fashion adoption: A rebuttal to the trickle-down theory.',
-      link: '',
+        'King, C. W. (1965). Fashion adoption: A rebuttal to the trickle-down theory.',
+      link:
+        'https://www.econbiz.de/Record/fashion-adoption-a-rebuttal-to-the-trickle-down-theory-king-charles/10002208542',
     },
     {
       referencia:
@@ -399,7 +400,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico – Regional Santander ',
         },
       ],
@@ -428,13 +429,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

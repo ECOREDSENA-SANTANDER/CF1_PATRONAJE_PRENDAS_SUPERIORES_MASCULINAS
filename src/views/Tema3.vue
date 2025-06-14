@@ -264,7 +264,7 @@
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Largo de falda para hombre = 2 / 3 de la medida cintura al suelo – 3 cm.
 
-    p.mb-4.text-center Se detalla enseguida cómo obtener medidas deducidas, a partir del desarrollo de las siguientes fórmulas:
+    p.mb-4 Se detalla enseguida cómo obtener medidas deducidas, a partir del desarrollo de las siguientes fórmulas:
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-6.col-md-10.col-sm-12
@@ -384,7 +384,7 @@
           ul.lista-ul--color.fa-al
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Cuello= 2 / 3 de pecho + 4 cm
+              span.mb-0 Cuello = 2 / 3 de pecho + 4 cm
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Cintura/suelo = 7 / 10 de la estatura 7ac  
@@ -392,7 +392,7 @@
               i.fas.fa-chevron-circle-right
               span.mb-0 Base = pecho + desahogo + costura (desahogo 4 cm y la costura 2 cm)
 
-    p.text-center.mb-4 Como complemento a lo analizado, se detalla la forma cómo se realiza una construcción de la talla 6 con aplicación de fórmulas.
+    p.mb-4 Como complemento a lo analizado, se detalla la forma cómo se realiza una construcción de la talla 6 con aplicación de fórmulas.
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-6.col-md-8.col-sm-12
@@ -406,9 +406,9 @@
             caption Nota: medidas dadas en centímetros.
             thead
               tr
-                th Talla
+                th(style="width:25%") Talla
                 th 6
-                th X6/6
+                th(style="width:25%") X6/6
             tbody
               tr
                 td Tórax máximo
@@ -491,18 +491,18 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-md-12.col-sm-12.bgrosado.borde-redondo
         .row.mt-5.mb-5
-          p.px-5.mt-5.mb-4 El incremento proporcionado y secuenciado debe responder a estándares que permitan el ajuste de tallas, dado que se determina a partir de la identificación en la variación de unidades de medida entre trallas dentro de las diferentes líneas de la medición del cuerpo.
+          p.px-5.mt-5.mb-4 El incremento proporcionado y secuenciado debe responder a estándares que permitan el ajuste de tallas, dado que se determina a partir de la identificación en la variación de unidades de medida entre tallas dentro de las diferentes líneas de la medición del cuerpo.
           p.px-5.mb-4 Las fórmulas aplicadas para calcular la proporción consisten en dividir la diferencia del contorno entre cuatro, para obtener fracciones que corresponden a dicha proporción, por ejemplo:
           ul.lista-ul--color.fa-al.px-5
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 1 proporción equivale a 2 cm.
+              span.mb-0 Una proporción equivale a 2 cm.
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Media proporción corresponde a 1 cm.
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-3 Una cuarta proporción corresponde a 0,5 cm.
+              span.mb-3 Un cuarto de proporción corresponde a 0,5 cm.
       .col-lg-6.col-md-8.col-sm-12
         img(src='@/assets/curso/t3/img7.png', alt='')
 
@@ -510,14 +510,14 @@
       .titulo-sexto.color-acento-contenido
         h5 Tabla 8. 
         |  Medidas ajustadas por talla
-      .tabla-a.color-secundario.estilo5
+      .tabla-a.color-secundario.estilo7
         table(alt="La tabla presenta un conjunto de medidas corporales comparativas entre las tallas 8 y 10, utilizadas para el diseño y ajuste de prendas de vestir. Incluye contornos (busto, cintura, cadera), anchos (espalda, pecho) y largos verticales (talle y centro, tanto frontal como posterior). Cada medida va acompañada de su descripción técnica y del incremento proporcional que ocurre entre una talla y otra, lo que permite realizar una gradación precisa en el patronaje. Esta información es clave para garantizar el ajuste y la ergonomía en la confección de ropa.")
           thead
             tr
-              th.izquierdo(style="width:14%") Medida
+              th.izquierdo(style="width:15%") Medida corporal
               th.izquierdo Descripción
               th(style="width:12%") Talla 8 (cm)
-              th(style="width:13%") Talla 10 (cm)
+              th(style="width:12%") Talla 10 (cm)
               th(style="width:20%") Incremento / Proporción
           tbody
             tr

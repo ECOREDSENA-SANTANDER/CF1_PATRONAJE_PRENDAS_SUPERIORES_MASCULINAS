@@ -39,7 +39,7 @@
         h5 Tabla 9. 
         |  Clasificación de universos del vestuario por ocasión de uso
       .tabla-a.color-secundario.estilo5
-        table
+        table(alt="La tabla presenta una clasificación de los universos del vestuario según la ocasión de uso. Cada universo agrupa prendas con características específicas que responden a contextos determinados, como eventos formales, actividades cotidianas, ejercicio físico, entornos laborales, celebraciones, entretenimiento, descanso y uso recreativo en espacios como playa o piscina. La organización incluye el uso principal de cada universo y ejemplos de prendas asociadas, facilitando la identificación del tipo de vestuario adecuado para cada situación. Esta categorización es clave en el diseño, comercialización y segmentación del mercado de la moda.")
           thead
             tr
               th(style="width:14%") Universo
@@ -49,11 +49,11 @@
             tr
               td Formal
               td Eventos elegantes, reuniones importantes, fiestas de etiqueta
-              td Trajes de gala, vestidos de noche, vestidos de gala
+              td Trajes de gala, trajes de ocasión (noche, día)
             tr
               td Informal casual
               td Vida cotidiana, actividades diarias
-              td Pantalones en denim, camisetas, camisas, zapatillas, vestidos ligeros
+              td Pantalones en #[em denim], camisetas, camisas, zapatillas, vestidos ligeros
             tr
               td Deportivo o funcional
               td Actividad física, trabajo especializado
@@ -68,18 +68,18 @@
               td Vestidos largos, trajes formales, indumentaria cultural
             tr
               td Fantasía
-              td Teatro, cine, cosplay, carnaval
+              td Teatro, cine, #[em cosplay], carnaval
               td Disfraces, vestuario teatral, trajes de época
             tr
-              td Swinwear
+              td #[em Swimwear]
               td Playa, piscina, eventos recreativos
-              td Vestidos de baño, salidas de baño, vestidos para la playa y la piscina
+              td Vestidos de baño, salidas de baño, atuendos para la playa y la piscina
             tr
-              td Lingeriewear
+              td #[em Lingerie wear]
               td Prendas interiores
               td Ropa interior
             tr
-              td Sleepwear
+              td #[em Sleepwear]
               td Para dormir o descansar
               td Ropa de descanso, pijamas
 
@@ -98,15 +98,17 @@
           h5 Tabla 10. 
           |  Ocasión de uso por universo de vestuario
         .tabla-a.color-secundario.estilo5
-          table
+          table(alt="La tabla presenta información de ocasión de uso por universo de vestuario, correspondiendo el protocolario a la gala /formal, multiocasion al casual, Informal al kakiwear, Jeanswear, Sportswear, Activwear, Leisurewear, y finaliza con complementos al Swinwear/Beachwear, Sleepwear, y Underwear. ")
             thead
               tr
                 th Ocasión de uso
                 th Universo de vestuario
             tbody
               tr
-                td Protocollario
-                td Gala, Formal
+                td Protocolario
+                td Gala
+                  br
+                  | Formal
               tr
                 td Multiocasión
                 td Casual
@@ -123,7 +125,7 @@
                   | #[em Leisurewear]
               tr
                 td Complementos
-                td #[em Swinwear]
+                td #[em Swimwear]
                   br
                   | #[em Beachwear]
                   br
@@ -131,7 +133,7 @@
                   br
                   | #[em Underwear]
       .col-lg-6.col-md-8.col-sm-12
-        img(src='@/assets/curso/t4/img4.png', alt='')
+        img.mt-4(src='@/assets/curso/t4/img4.png', alt='')
 
     Separador  
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -168,7 +170,7 @@
                 span Ir al sitio
                   i.fas.fa-play-circle.p-2
 
-    p.text-center.mb-5 A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
+    p.mb-5 A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
 
     TabsC.color-secundario
       .py-3.py-md-4(titulo="Concepto 1")
