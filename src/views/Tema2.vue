@@ -139,19 +139,6 @@
 
       .col-lg-7.col-md-9.col-sm-12
         img.mb-3(src='@/assets/curso/t2/img8.png', alt='')
-        .tarjeta.color-primario.p-3(data-aos="fade").mb-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/t2/documento.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Clasificación de las medidas
-                  p.mb-0 Lo invitamos a consultar el PDF - Anexo 1. Clasificación de las medidas, donde se presentan de forma detallada la clasificación general, los sistemas de medida, las medidas anatómicas y sus respectivas deducciones.
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
 
     Separador.mt-0  
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -210,16 +197,16 @@
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/t1/play.png")
+          img(src="@/assets/curso/t1/anexo.png")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Clasificación de medidas
+              h4.mb-1 Medidas anatómicas
               p.mb-0 Descubra los fundamentos para desarrollar patrones de prendas de vestir, partiendo del reconocimiento de las diferentes formas corporales, la comprensión de conceptos básicos de anatomía y la construcción del molde base como herramienta para interpretar la estructura del cuerpo.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
-                span Ir al sitio
-                  i.fas.fa-play-circle.p-2
+                span Descargar
+                  i.fas.fa-file-download.p-2
 
 
 

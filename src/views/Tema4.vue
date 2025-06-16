@@ -229,9 +229,6 @@
                   i.fas.fa-play-circle.p-2
 
 
-
-
-
 </template>
 
 <script>
