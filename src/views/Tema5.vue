@@ -194,10 +194,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Sesión 6 - caracterización de los textiles
+              h4.mb-1 Sesión 6 - Caracterización de los textiles
               p.mb-2 Para profundizar en cómo se realiza esta caracterización, se invita al aprendiz a seguir el siguiente enlace:
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=mc1kARHDHrs" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=kL9UYOzJD3o" target="_blank")
                 span Ir al sitio
                   i.fas.fa-play-circle.p-2
 
