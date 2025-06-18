@@ -261,7 +261,7 @@ export default {
     {
       termino: 'Trazo de un plano',
       significado:
-        'en lo referente al oficio del patronista, el trazo de un plan hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
+        'en lo referente al oficio del patronista, el trazo de un plano hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
     },
     {
       termino: 'Patronaje',
