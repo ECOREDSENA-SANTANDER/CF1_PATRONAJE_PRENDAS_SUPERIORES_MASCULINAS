@@ -163,7 +163,7 @@
             td.bgamarilloclaro3.text-left Sarga interrumpida #[em (broken twill)]
           tr.bgamarilloclaro3
             td.bgamarilloclaro3.text-left Otros
-            td.bgamarilloclaro3.text-left Dobby, jacquard, riso, afelpados, etc.
+            td.bgamarilloclaro3.text-left #[em Dobby], #[em jacquard], riso, afelpados, etc.
           tr
             td(rowspan="5").bgamarilloclaro3.fw-bold.w-25.text-left Punto
             td(rowspan="2").bgamarilloclaro3.text-left Por trama
@@ -194,7 +194,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Sesión 6 - Caracterización de los textiles
+              h4.mb-1 Caracterización de los textiles
               p.mb-2 Para profundizar en cómo se realiza esta caracterización, se invita al aprendiz a seguir el siguiente enlace:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=kL9UYOzJD3o" target="_blank")

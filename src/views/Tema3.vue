@@ -151,7 +151,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4. 
           |  Fórmulas para deducción de medidas corporales
-        .tabla-a.color-secundario.estilo3.mt-4
+        .tabla-a.color-secundario.estilo7.mt-4
           table(alt="La tabla presenta fórmulas de cálculo de medidas corporales utilizadas en patronaje y confección. Se dividen en tres categorías: medidas horizontales, que incluyen busto, cintura, cadera y extremidades; medidas verticales, como estatura, altura de busto y largo de brazo; y otras fórmulas de deducción, basadas en la edad o proporciones del cuerpo.")
             caption Nota: 7ac hace referencia a toma de medida del cuello hasta la planta del pie.
             thead
@@ -518,7 +518,7 @@
               th.izquierdo Descripción
               th(style="width:12%") Talla 8 (cm)
               th(style="width:12%") Talla 10 (cm)
-              th(style="width:20%") Incremento / Proporción
+              th(style="width:20%") Incremento / proporción
           tbody
             tr
               td.izquierdo Contorno de busto

@@ -259,7 +259,7 @@ export default {
         'expresión normalizada que permite identificar a las personas para el uso de prendas de vestir.',
     },
     {
-      termino: 'Trazo de un plan',
+      termino: 'Trazo de un plano',
       significado:
         'en lo referente al oficio del patronista, el trazo de un plan hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
     },
