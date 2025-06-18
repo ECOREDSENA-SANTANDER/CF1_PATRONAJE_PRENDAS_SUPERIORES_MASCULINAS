@@ -299,7 +299,7 @@ export default {
     {
       referencia:
         'Gutiérrez Rengifo, L., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., & Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje (SENA) & Japan International Cooperation Agency (JICA).',
-      link: 'https://repositorio.sena.edu.co/handle/11404/4725',
+      link: '',
     },
     {
       referencia:
@@ -329,8 +329,7 @@ export default {
     {
       referencia:
         'King, C. W. (1965). Fashion adoption: A rebuttal to the trickle-down theory.',
-      link:
-        'https://www.econbiz.de/Record/fashion-adoption-a-rebuttal-to-the-trickle-down-theory-king-charles/10002208542',
+      link: '',
     },
     {
       referencia:
