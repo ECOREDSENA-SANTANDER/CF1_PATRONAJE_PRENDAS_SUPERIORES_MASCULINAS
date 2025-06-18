@@ -433,15 +433,15 @@
               tr
                 td Estatura 7a
                 td 164 - 20
-                td 146
+                td 144
               tr
                 td Talle
                 td 144 / 10 = 14,4 * 3
-                td 43,8
+                td 43,2
               tr
                 td Largo de brazo
                 td 144 / 10 = 14,4 * 4
-                td 58,4
+                td 57,6
               tr
                 td Cuello
                 td 40 / 3 = 13,3 * 2
@@ -449,7 +449,7 @@
               tr
                 td Cintura/suelo
                 td 144 / 10 =14,4 * 7
-                td 102,2
+                td 100,8
               tr
                 td Base
                 td 38 + 4 + 2
