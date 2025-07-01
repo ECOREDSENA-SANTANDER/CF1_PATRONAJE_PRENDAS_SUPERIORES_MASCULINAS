@@ -227,7 +227,7 @@ export default {
     {
       termino: 'Estilo',
       significado:
-        'manifestación personal de cada individuo según las características propias y comunicación a través de su actividad y vestuario. En el estilo se manifiesta la identidad de la persona que está fundamentada en la unidad que se refleja a partir de la relación existente entre el ser y su aspectos exterior o la apariencia.',
+        'manifestación personal de cada individuo según las características propias y comunicación a través de su actividad y vestuario. En el estilo se manifiesta la identidad de la persona que está fundamentada en la unidad que se refleja a partir de la relación existente entre el ser y su aspecto exterior o la apariencia.',
     },
     {
       termino: '<em>Outfit</em>',

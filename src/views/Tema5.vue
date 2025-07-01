@@ -119,7 +119,7 @@
       .col-lg-2.col-md-3.col-sm-12
         img(src='@/assets/curso/t5/img3.png', alt='')
       .col-lg-10.col-md-12.col-sm-12
-        p.mb-0 #[b Los tejidos:] son estructuras manufacturadas a partir de fibras o hilos que presentan una proporción significativa entre su longitud, área y espesor, y que cuentan con suficiente resistencia mecánica para mantener su cohesión (#[em Textile Terms and Definitions, The Textile Institute,] citado por el SENA).
+        p.mb-0 #[b Los tejidos:] son estructuras manufacturadas a partir de fibras o hilos que presentan una proporción significativa entre su longitud, área y espesor, y que cuentan con suficiente resistencia mecánica para mantener su cohesión (Textile Terms and Definitions, The Textile Institute, citado por el SENA).
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6.col-md-12.col-sm-12.bgverdemate.p-0.borde-redondo-izq
@@ -163,11 +163,11 @@
             td.bgamarilloclaro3.text-left Sarga interrumpida #[em (broken twill)]
           tr.bgamarilloclaro3
             td.bgamarilloclaro3.text-left Otros
-            td.bgamarilloclaro3.text-left #[em Dobby], #[em jacquard], riso, afelpados, etc.
+            td.bgamarilloclaro3.text-left Dobby, jacquard, riso, afelpados, etc.
           tr
             td(rowspan="5").bgamarilloclaro3.fw-bold.w-25.text-left Punto
             td(rowspan="2").bgamarilloclaro3.text-left Por trama
-            td.bgamarilloclaro3.text-left Sencillo (#[em jersey], #[em lacoste])
+            td.bgamarilloclaro3.text-left Sencillo (jersey, lacoste)
           tr
             td.bgamarilloclaro3.text-left Doble (#[em rib] o resortado, #[em interlock], piqué)
           tr
@@ -238,7 +238,7 @@
               .row.justify-content-center.align-items-center.mb-0(titulo="Paso 2")
                 .col-sm-12.col-lg-6.col-md-12
                   h4.mb-4  Distribución y encaje de piezas
-                  p.mb-4 Organice las piezas para que ocupen el menor espacio posible dentro del ancho de la tela (normalmente 1.40 m o 1.50 m). Aquí se busca una disposición eficiente, como encajar piezas en ángulos o rotarlas si el diseño lo permite.
+                  p.mb-4 Organice las piezas para que ocupen el menor espacio posible dentro del ancho de la tela (normalmente 1,40 m o 1,50 m). Aquí se busca una disposición eficiente, como encajar piezas en ángulos o rotarlas si el diseño lo permite.
                 .col-sm-12.col-lg-4.col-md-6
                   img(src='@/assets/curso/t5/img6.png', alt='')
 

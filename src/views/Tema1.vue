@@ -120,7 +120,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/t1/img6.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 La ergonomía es una disciplina científica que estudia las interacciones entre los seres humanos y los elementos de un sistema, con el propósito de promover el bienestar, la eficiencia y la seguridad (#[em International Ergonomics Association], 2000). Se fundamenta en principios teóricos y metodológicos orientados al diseño de entornos, herramientas y productos adaptados a las capacidades y limitaciones del cuerpo humano.
+          p.mb-0 La ergonomía es una disciplina científica que estudia las interacciones entre los seres humanos y los elementos de un sistema, con el propósito de promover el bienestar, la eficiencia y la seguridad (International Ergonomics Association, 2000). Se fundamenta en principios teóricos y metodológicos orientados al diseño de entornos, herramientas y productos adaptados a las capacidades y limitaciones del cuerpo humano.
             br
             br
             | En el contexto del vestuario, la ergonomía se relaciona directamente con el confort, la funcionalidad y la adaptabilidad de las prendas; su objetivo es facilitar el desempeño de las actividades cotidianas, evitando molestias o alteraciones posturales derivadas del uso de prendas inadecuadas.
@@ -128,7 +128,7 @@
       p.mb-4.mt-4 #[b Por ejemplo:] un pantalón que limita la flexión de la rodilla puede causar incomodidad e incluso afectar negativamente la movilidad y salud de la articulación.
 
       .row.justify-content-center.align-items-center.mb-5.bgrosado.borde-redondo
-        p.px-5.py-3.mt-2 #[b Por ello, uno de los desafíos en el diseño de moda es desarrollar prendas ergonómicas, considerando tanto la estructura corporal como los materiales utilizados en su confección. La selección textil y la construcción del patrón deben responder a criterios que aseguren movilidad, comodidad y ajuste eficiente.]
+        p.px-5.py-3.mt-2 Por ello, uno de los desafíos en el diseño de moda es desarrollar prendas ergonómicas, considerando tanto la estructura corporal como los materiales utilizados en su confección. La selección textil y la construcción del patrón deben responder a criterios que aseguren movilidad, comodidad y ajuste eficiente.
 
       .row.mb-4
         h3.pr-3.py-0 Relación entre conceptos y estructura corporal:
@@ -463,7 +463,7 @@
                 tr
                   td(style="width:120px") Ectomorfo
                   td Figura delgada, hombros estrechos, extremidades largas y escaso desarrollo muscular.
-                  td Favorecer la amplitud visual en hombros y torso. Evitar cortes demasiado ajustados que accentúen la delgadez.
+                  td Favorecer la amplitud visual en hombros y torso. Evitar cortes demasiado ajustados que acentúen la delgadez.
                   td
                     | #[b Cuello:] mandarín o clásico estructurado.
                     br
