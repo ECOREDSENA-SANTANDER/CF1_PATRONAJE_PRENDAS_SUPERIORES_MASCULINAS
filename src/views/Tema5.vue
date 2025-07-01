@@ -18,7 +18,7 @@
             h5 Figura 18. 
             | Fibras textiles
         figure
-          img(src='@/assets/curso/t5/fig18.png', alt='La figura presenta el proceso manual de manejo de fibras textiles, en el que una persona separa y prepara material fibroso, posiblemente para su hilado o procesamiento posterior. Las manos interactúan directamente con las fibras, que están dispuestas sobre una superficie.')
+          img(src='@/assets/curso/t5/fig18.png', alt='Presenta el proceso manual de manejo de fibras textiles, en el que una persona separa y prepara material fibroso, posiblemente para su hilado o procesamiento posterior. Las manos interactúan directamente con las fibras, que están dispuestas sobre una superficie.')
 
     p.mb-4 Las fibras se clasifican según su origen en dos grupos principales:
 
@@ -113,7 +113,7 @@
       .titulo-sexto.color-acento-contenido
         h5 Figura 19. 
         | Hilaturas
-      img(src='@/assets/curso/t5/fig19.png', alt='La figura presenta tres etapas del proceso textil artesanal. A la izquierda, se representa el hilado manual con huso y fibras vegetales. Al centro, un telar de madera en uso, con herramientas y tejidos en desarrollo. A la derecha, se exhiben madejas de hilo organizadas y manipuladas con las manos, listas para ser utilizadas.')
+      img(src='@/assets/curso/t5/fig19.png', alt='Presenta tres etapas del proceso textil artesanal. A la izquierda, se representa el hilado manual con huso y fibras vegetales. Al centro, un telar de madera en uso, con herramientas y tejidos en desarrollo. A la derecha, se exhiben madejas de hilo organizadas y manipuladas con las manos, listas para ser utilizadas.')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-2.col-md-3.col-sm-12
@@ -258,7 +258,7 @@
                       .titulo-sexto.color-acento-contenido
                         h5 Figura 20. 
                         | Fórmula de aprovechamiento
-                      img(src='@/assets/curso/t5/fig20.png', alt='La imagen presenta una fórmula utilizada para calcular el porcentaje de aprovechamiento de tela. Se obtiene dividiendo el área útil utilizada por los patrones entre el área total del metro de tela, y multiplicando el resultado por 100.')
+                      img(src='@/assets/curso/t5/fig20.png', alt='Fórmula utilizada para calcular el porcentaje de aprovechamiento de tela. Se obtiene dividiendo el área útil utilizada por los patrones entre el área total del metro de tela, y multiplicando el resultado por 100.')
                       
                     .col-lg-5.col-md-6.col-sm-12
                       p.mt-5.mb-0 Tela: 1 metro de largo x 1,50 metros de ancho = 1,5 m².
@@ -266,7 +266,7 @@
                       .titulo-sexto.color-acento-contenido
                         h5 Figura 21. 
                         | Ejemplo de aplicación
-                      img(src='@/assets/curso/t5/fig21.png', alt='La imagen presenta un ejemplo aplicado de la fórmula de aprovechamiento de tela. Se divide un área útil de 1.15 metros cuadrados entre un área total de 1.5 metros cuadrados, y el resultado se multiplica por 100. El aprovechamiento obtenido es del 76.67 %, lo que indica que se utiliza eficientemente esa proporción del material disponible.')
+                      img(src='@/assets/curso/t5/fig21.png', alt='Presenta un ejemplo aplicado de la fórmula de aprovechamiento de tela. Se divide un área útil de 1.15 metros cuadrados entre un área total de 1.5 metros cuadrados, y el resultado se multiplica por 100. El aprovechamiento obtenido es del 76.67 %, lo que indica que se utiliza eficientemente esa proporción del material disponible.')
 
     .subt2.mb-5(data-aos="fade-right")
       .row.align-items-center

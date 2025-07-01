@@ -1,4 +1,4 @@
-<template lang="pug">
+tabla<template lang="pug">
   .curso-main-container.pb-3
     BannerInterno
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.borde-recto-abajo
@@ -42,7 +42,7 @@
                   h5 Figura 1. 
                   | Medidas corporales segmentadas
               figure
-                img(src='@/assets/curso/t1/fig1.png', alt='La imagen presenta esquemas anatómicos de un hombre, una mujer y un niño con medidas antropométricas en centímetros, destacando proporciones corporales clave. Estos datos son esenciales para el diseño ergonómico, el patronaje y estudios biomecánicos.')
+                img(src='@/assets/curso/t1/fig1.png', alt='Presenta esquemas anatómicos de un hombre, una mujer y un niño con medidas antropométricas en centímetros, destacando proporciones corporales clave. Estos datos son esenciales para el diseño ergonómico, el patronaje y estudios biomecánicos.')
               figcaption Fuente: https://www.timetoast.com/timelines/pasos-para-realizar-una-adecuada-evaluacion-nutricional-antropometrica
 
 
@@ -109,7 +109,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-12.col-md-12.col-sm-12
               figure
-                img(src='@/assets/curso/t1/img5.png', alt='La figura presenta cinco siluetas corporales masculinas con diferentes complexiones físicas. Se evidencian variaciones en la distribución del tejido adiposo, tonicidad muscular y proporciones corporales, lo cual permite analizar la diversidad morfológica masculina. Esta diversidad es relevante para el diseño de prendas que se ajusten adecuadamente a distintos tipos de cuerpo.')
+                img(src='@/assets/curso/t1/img5.png', alt='Presenta cinco siluetas corporales masculinas con diferentes complexiones físicas. Se evidencian variaciones en la distribución del tejido adiposo, tonicidad muscular y proporciones corporales, lo cual permite analizar la diversidad morfológica masculina. Esta diversidad es relevante para el diseño de prendas que se ajusten adecuadamente a distintos tipos de cuerpo.')
 
       Separador
       #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -189,7 +189,7 @@
                 h5 Figura 4. 
                 |  División del cuerpo
               figure
-                img(src='@/assets/curso/t1/fig4.png', alt='La figura presenta la división anatómica del cuerpo humano en regiones principales. Incluye la cabeza, subdividida en cráneo y cara; el cuello; el tronco, compuesto por tórax, abdomen y pelvis; los miembros superiores, que abarcan brazo, antebrazo y mano; y los miembros inferiores, integrados por muslo, pierna y pie.')
+                img(src='@/assets/curso/t1/fig4.png', alt='Presenta la división anatómica del cuerpo humano en regiones principales. Incluye la cabeza, subdividida en cráneo y cara; el cuello; el tronco, compuesto por tórax, abdomen y pelvis; los miembros superiores, que abarcan brazo, antebrazo y mano; y los miembros inferiores, integrados por muslo, pierna y pie.')
         .col-lg-6.col-md-12.col-sm-12.px-5.py-0
           p.mb-5.mt-5 Teniendo en cuenta la segmentación corporal, las prendas de vestir se clasifican según los miembros superiores e inferiores, lo que permite definir su diseño, funcionalidad y ajuste de manera más precisa.
           .row.bgamarilloclaro.p-4.borde-redondo.mb-5
@@ -312,7 +312,7 @@
                   h5 Figura 6.
                   | Silueta triángulo invertido
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig6.png', alt='La figura representa una silueta corporal masculina con forma de triángulo invertido. Esta morfología se caracteriza por hombros anchos y torso amplio en comparación con una cintura y caderas más estrechas.')
+                  img.mb-1(src='@/assets/curso/t1/fig6.png', alt='Presenta una silueta corporal masculina con forma de triángulo invertido. Esta morfología se caracteriza por hombros anchos y torso amplio en comparación con una cintura y caderas más estrechas.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 2")
           .row.justify-content-center
             .col-lg-6.col-md-6.col-sm-12
@@ -336,7 +336,7 @@
                   h5 Figura 8.
                   | Silueta redonda
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig8.png', alt='Se presenta una figura humana masculina de pie. La complexión corporal es ancha, con volumen pronunciado en el abdomen, el pecho y las caderas, formando una silueta ovalada. Debajo de la figura se encuentra un círculo sólido que representa gráficamente la forma corporal.')
+                  img.mb-1(src='@/assets/curso/t1/fig8.png', alt='Presenta una figura humana masculina de pie. La complexión corporal es ancha, con volumen pronunciado en el abdomen, el pecho y las caderas, formando una silueta ovalada. Debajo de la figura se encuentra un círculo sólido que representa gráficamente la forma corporal.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 4")
           .row.justify-content-center
             .col-lg-6.col-md-6.col-sm-12
@@ -348,7 +348,7 @@
                   h5 Figura 9. 
                   | Silueta en triángulo
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig9.png', alt='La imagen presenta una figura humana masculina de pie. La complexión corporal detalla mayor amplitud en la parte inferior, específicamente en caderas y muslos, mientras que el torso es más estrecho. Esta figura representa un somatotipo triangular. Debajo de la figura hay un triángulo apuntando hacia arriba, que simboliza la forma corporal.')
+                  img.mb-1(src='@/assets/curso/t1/fig9.png', alt='Presenta una figura humana masculina de pie. La complexión corporal detalla mayor amplitud en la parte inferior, específicamente en caderas y muslos, mientras que el torso es más estrecho. Esta figura representa un somatotipo triangular. Debajo de la figura hay un triángulo apuntando hacia arriba, que simboliza la forma corporal.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 5")
           .row.justify-content-center
             .col-lg-6.col-md-6.col-sm-12
@@ -360,7 +360,7 @@
                   h5 Figura 10.
                   | Silueta trapecio
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig10.png', alt='La imagen presenta una figura humana masculina de pie. La complexión corporal se destaca por una mayor amplitud en los hombros en comparación con la cintura y las caderas. Debajo de la figura se encuentra un triángulo apuntando hacia abajo, representando gráficamente la forma corporal.')
+                  img.mb-1(src='@/assets/curso/t1/fig10.png', alt='Presenta una figura humana masculina de pie. La complexión corporal se destaca por una mayor amplitud en los hombros en comparación con la cintura y las caderas. Debajo de la figura se encuentra un triángulo apuntando hacia abajo, representando gráficamente la forma corporal.')
 
 
       p.mt-4 Aunque en el diseño y patronaje de prendas femeninas se trabaja ampliamente con la clasificación de siluetas, en el mercado masculino este abordaje es más generalizado. En su lugar, se prioriza la clasificación de la figura masculina a partir de los somatotipos, los cuales serán la base fundamental para el desarrollo del patronaje de prendas superiores de moda masculina.

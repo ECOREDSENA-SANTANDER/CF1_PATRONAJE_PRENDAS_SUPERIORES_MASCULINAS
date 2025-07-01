@@ -66,7 +66,7 @@
           |  Escala en fracciones de pulgada
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-11.col-sm-12
-            img.mb-4(src='@/assets/curso/t2/fig11.png', alt='La figura representa una escala graduada del sistema inglés que indica fracciones de pulgada desde 0 hasta 10 pulgadas. Cada pulgada está subdividida en dieciséis partes iguales, lo que permite medir con precisión múltiplos de 1/16 de pulgada. También se destacan las marcas intermedias correspondientes a 1/2 pulgada.')
+            img.mb-4(src='@/assets/curso/t2/fig11.png', alt='Representa una escala graduada del sistema inglés que indica fracciones de pulgada desde 0 hasta 10 pulgadas. Cada pulgada está subdividida en dieciséis partes iguales, lo que permite medir con precisión múltiplos de 1/16 de pulgada. También se destacan las marcas intermedias correspondientes a 1/2 pulgada.')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-5.col-md-7.col-sm-12
@@ -87,7 +87,7 @@
           |  Centímetros (metro)
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-11.col-sm-12
-            img.mb-4(src='@/assets/curso/t2/fig13.png', alt='La figura presenta una escala en centímetros, correspondiente al sistema métrico. La regla está graduada de 0 a 25 centímetros, con subdivisiones en milímetros, lo que permite mediciones precisas en décimas de centímetro. Cada número entero representa un centímetro completo.')
+            img.mb-4(src='@/assets/curso/t2/fig13.png', alt='Representa una escala en centímetros con divisiones desde 0 hasta 25 cm. Cada centímetro está fraccionado en diez partes iguales, lo que permite realizar mediciones con precisión milimétrica. Se utiliza para medir longitudes en el sistema métrico decimal.')
 
     p.mb-5 #[b El centímetro:] es una unidad de medida del sistema métrico decimal, equivalente a la centésima parte de un metro; se utiliza ampliamente en la medición de cuerpos.
 

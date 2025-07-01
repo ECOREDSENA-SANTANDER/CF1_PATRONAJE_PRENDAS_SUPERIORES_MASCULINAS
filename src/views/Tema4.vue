@@ -152,7 +152,7 @@
           h5 Figura 17.
           | Sistema moda y gamas de mercado
         figure
-          img.mb-3(src='@/assets/curso/t4/fig17.png', alt='La imagen representa la Pirámide de la Moda, una clasificación de la industria según la calidad y exclusividad de las prendas. Se divide en cinco niveles; Alta Costura, Moda de alta calidad, Gama media, Mercado de masas, Gama baja.')
+          img.mb-3(src='@/assets/curso/t4/fig17.png', alt='Representa la Pirámide de la Moda, una clasificación de la industria según la calidad y exclusividad de las prendas. Se divide en cinco niveles; Alta Costura, Moda de alta calidad, Gama media, Mercado de masas, Gama baja.')
       .col-lg-6.col-md-8.col-sm-12
         img(src='@/assets/curso/t4/img6.png', alt='')
 
@@ -173,7 +173,7 @@
     p.mb-5 A partir de lo anterior y atendiendo a la clasificación de las gamas de mercado en el sistema moda, se relacionan los siguientes conceptos:
 
     TabsC.color-secundario
-      .py-3.py-md-4(titulo="Concepto 1")
+      .py-3.py-md-4(titulo="Alta costura")
         .row.align-items-center.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Alta costura o #[em haute couture]
@@ -181,7 +181,7 @@
           .col-md-5
             img(src='@/assets/curso/t4/img8.png', alt='Texto que describa la imagen')
       
-      .py-3.py-md-4(titulo="Concepto 2")
+      .py-3.py-md-4(titulo="Listo para llevar")
         .row.align-items-center.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Listo para llevar o #[em prêt-à-porter]
@@ -189,7 +189,7 @@
           .col-md-5
             img(src='@/assets/curso/t4/img7.png', alt='Texto que describa la imagen')
 
-      .py-3.py-md-4(titulo="Concepto 3")
+      .py-3.py-md-4(titulo="Pronta moda")
         .row.align-items-center.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Pronta moda o #[em fast fashion]
@@ -198,7 +198,7 @@
           .col-md-5
             img(src='@/assets/curso/t4/img9.png', alt='Texto que describa la imagen')
 
-      .py-3.py-md-4(titulo="Concepto 4")
+      .py-3.py-md-4(titulo="Moda lenta")
         .row.align-items-center.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Moda lenta o #[em slow fashion]

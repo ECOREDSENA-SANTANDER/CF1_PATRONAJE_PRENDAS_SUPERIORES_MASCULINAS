@@ -47,7 +47,7 @@
             |  Canon masculino con 8 cabezas
           .row.align-items-center.justify-content-center
             .col-lg-8.col-md-10.col-sm-12
-              img.mb-3(src='@/assets/curso/t3/fig14.png', alt='La figura representa el canon de proporción masculina basado en ocho cabezas. El cuerpo está segmentado horizontalmente en ocho partes iguales, cada una equivalente al tamaño de la cabeza, lo que sirve como referencia para el estudio y diseño de proporciones corporales en anatomía artística o moda.')
+              img.mb-3(src='@/assets/curso/t3/fig14.png', alt='Representa el canon de proporción masculina basado en ocho cabezas. El cuerpo está segmentado horizontalmente en ocho partes iguales, cada una equivalente al tamaño de la cabeza, lo que sirve como referencia para el estudio y diseño de proporciones corporales en anatomía artística o moda.')
 
       .col-lg-6.col-md-8.col-sm-12
         .row.bgrosado.mx-2.p-3
@@ -56,7 +56,7 @@
             |  Proporción de la figura humana #[em Vitruvian]
           .row.align-items-center.justify-content-center
             .col-lg-11.col-md-11.col-sm-12
-              img.mb-3(src='@/assets/curso/t3/fig15.png', alt='La imagen presenta el Hombre de Vitruvio, un dibujo anatómico clásico de Leonardo da Vinci. Representa una figura humana masculina desnuda con brazos y piernas extendidos en dos posiciones superpuestas. El cuerpo está inscrito dentro de un círculo y un cuadrado, simbolizando las proporciones ideales del ser humano. El trazo es lineal y detallado.')
+              img.mb-3(src='@/assets/curso/t3/fig15.png', alt='Representa el Hombre de Vitruvio, un dibujo anatómico clásico de Leonardo da Vinci. Representa una figura humana masculina desnuda con brazos y piernas extendidos en dos posiciones superpuestas. El cuerpo está inscrito dentro de un círculo y un cuadrado, simbolizando las proporciones ideales del ser humano. El trazo es lineal y detallado.')
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade")
       .col-lg-4.col-md-6.col-sm-12 
@@ -82,7 +82,7 @@
           h5 Figura 16.
           | Proporción de acuerdo con las etapas de crecimiento
         figure
-          img.mb-3(src='@/assets/curso/t3/fig16.png', alt='La figura representa la proporción del cuerpo humano en diferentes etapas del crecimiento, desde el primer año de vida hasta la adultez. Cada etapa está ilustrada mediante la cantidad de cabezas que caben en la altura total del cuerpo, evidenciando cómo varía esta proporción a medida que avanza la edad.')
+          img.mb-3(src='@/assets/curso/t3/fig16.png', alt='Representa la proporción del cuerpo humano en diferentes etapas del crecimiento, desde el primer año de vida hasta la adultez. Cada etapa está ilustrada mediante la cantidad de cabezas que caben en la altura total del cuerpo, evidenciando cómo varía esta proporción a medida que avanza la edad.')
         figcaption Fuente: https://lapizuri.weebly.com/proporcioacuten-del-cuerpo-humano.html
 
     Separador  
@@ -177,7 +177,7 @@
                       span.mb-0 Bajo busto = busto – 6 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Separación de busto = 2 / 5 busto. 
+                      span.mb-0 Separación de busto = 2/5 busto. 
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Cintura = busto – 10 cm. 
@@ -186,19 +186,19 @@
                       span.mb-0 Cadera = busto + 4 cm.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cuello = 1 / 2 busto + 12 cm. 
+                      span.mb-0 Cuello = 1/2 busto + 12 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Rodilla = 1 / 4 busto + 24 cm. 
+                      span.mb-0 Rodilla = 1/4 busto + 24 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Tobillo = 1 / 8 busto + 15,5 cm. 
+                      span.mb-0 Tobillo = 1/8 busto + 15,5 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Brazo = busto – 18 cm.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Muñeca = 1 / 4 busto + 5 cm. 
+                      span.mb-0 Muñeca = 1/4 busto + 5 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Ancho espalda = busto – 8 cm.
@@ -212,19 +212,19 @@
                       span.mb-0 Estatura total = estatura 7ac + 20 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Altura de busto = 3 / 8 estatura 7ac – 27 cm. 
+                      span.mb-0 Altura de busto = 3/8 estatura 7ac – 27 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Altura bajo busto = 3 / 8 estatura 7ac – 18 cm. 
+                      span.mb-0 Altura bajo busto = 3/8 estatura 7ac – 18 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Largo brazo = 4 / 10 estatura 7ac.
+                      span.mb-0 Largo brazo = 4/10 estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cintura/suelo = 7 / 10 estatura 7ac.
+                      span.mb-0 Cintura/suelo = 7/10 estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Altura de cadera = 2 / 3 de tiro.
+                      span.mb-0 Altura de cadera = 2/3 de tiro.
                 td 
                   ul.lista-ul--color.fa-al
                     li 
@@ -235,34 +235,34 @@
                       span.mb-0 Pecho = años + 24 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cintura = 1 / 2 de años + 26 cm.
+                      span.mb-0 Cintura = 1/2 de años + 26 cm.
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Cadera = años + 28.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cuello = 2 / 3 de pecho + 4 cm. 
+                      span.mb-0 Cuello = 2/3 de pecho + 4 cm. 
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Estatura 7ac = años x 5 + 65 cm.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Talle espalda = 3 / 10 de estatura 7ac.
+                      span.mb-0 Talle espalda = 3/10 de estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Estatura total: estatura 7ac + 15 cm a 18 cm. Corresponden al canon del niño o medida de cabeza.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Largo de brazo= 4 / 10 de estatura 7ac.
+                      span.mb-0 Largo de brazo= 4/10 de estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Codo = 1 / 2 de brazo. Esta medida sin tener en cuenta lo que corresponde a la muñeca (menos 5 cm para todas las tallas).
+                      span.mb-0 Codo = 1/2 de brazo. Esta medida sin tener en cuenta lo que corresponde a la muñeca (menos 5 cm para todas las tallas).
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cintura al suelo = 7 / 10 de estatura 7ac.
+                      span.mb-0 Cintura al suelo = 7/10 de estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Largo de falda para hombre = 2 / 3 de la medida cintura al suelo – 3 cm.
+                      span.mb-0 Largo de falda para hombre = 2/3 de la medida cintura al suelo – 3 cm.
 
     p.mb-4 Se detalla enseguida cómo obtener medidas deducidas, a partir del desarrollo de las siguientes fórmulas:
 
@@ -305,7 +305,7 @@
                 td 1,50 cm
               tr
                 td Largo de bazo
-                td 4 / 10 de la estatura 7ac
+                td 4/10 de la estatura 7ac
                 td 60 cm
       .col-lg-6.col-md-8.col-sm-12
         img(src='@/assets/curso/t3/img3.png', alt='')
@@ -376,18 +376,18 @@
               span.mb-0 Estatura 7ac = estatura total – 20 cm
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Talle = 3 / 10 de la estatura 7ac
+              span.mb-0 Talle = 3/10 de la estatura 7ac
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Largo de brazo = 4 / 10 de la estatura 7ac
+              span.mb-0 Largo de brazo = 4/10 de la estatura 7ac
         .col-lg-3.col-md-12.col-sm-12
           ul.lista-ul--color.fa-al
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Cuello = 2 / 3 de pecho + 4 cm
+              span.mb-0 Cuello = 2/3 de pecho + 4 cm
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Cintura/suelo = 7 / 10 de la estatura 7ac  
+              span.mb-0 Cintura/suelo = 7/10 de la estatura 7ac  
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Base = pecho + desahogo + costura (desahogo 4 cm y la costura 2 cm)
