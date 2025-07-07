@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.png", alt="La síntesis presenta un mapa conceptual titulado estructura corporal masculina. El esquema se divide en cuatro ramas principales: estructura del cuerpo, análisis y clasificación de las medidas, análisis de medidas y cuadro de tallas, y moda. Cada rama contiene subtemas como antropometría, sistemas de medidas, proporciones corporales, universos del vestuario y bases textiles. Las relaciones están organizadas en recuadros conectados por líneas.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -119,13 +119,13 @@
                 td Estatura total - 20
               tr
                 td Tallaje
-                td 3 / 10 de la estatura 7ac
+                td 3/10 de la estatura 7ac
               tr
-                td Cintura/suelo
-                td 7 / 10 de la estatura 7ac
+                td Cintura / suelo
+                td 7/10 de la estatura 7ac
               tr
                 td Largo del brazo
-                td 4 / 10 de la estatura 7ac
+                td 4/10 de la estatura 7ac
               tr
                 td Estatura total
                 td Estatura 7ac + 20 cm
@@ -221,7 +221,7 @@
                       span.mb-0 Largo brazo = 4/10 estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
-                      span.mb-0 Cintura/suelo = 7/10 estatura 7ac.
+                      span.mb-0 Cintura / suelo = 7/10 estatura 7ac.
                     li 
                       i.fas.fa-chevron-circle-right
                       span.mb-0 Altura de cadera = 2/3 de tiro.
@@ -282,7 +282,7 @@
               tr
                 td Estatura total
                 td No aplica
-                td 1,70 cm
+                td 170 cm
               tr
                 td Tórax máximo
                 td No aplica
@@ -302,9 +302,9 @@
               tr
                 td Estatura 7a cervical
                 td Estatura total - 20 cm
-                td 1,50 cm
+                td 150 cm
               tr
-                td Largo de bazo
+                td Largo de brazo
                 td 4/10 de la estatura 7ac
                 td 60 cm
       .col-lg-6.col-md-8.col-sm-12
@@ -329,10 +329,10 @@
             thead
               tr
                 th Talla
-                th XS/6
-                th S/8
-                th M/10
-                th L/12
+                th XS / 6
+                th S / 8
+                th M / 10
+                th L / 12
                 th Incremento
             tbody
               tr
@@ -408,7 +408,7 @@
               tr
                 th(style="width:25%") Talla
                 th 6
-                th(style="width:25%") X6/6
+                th(style="width:25%") X6 /6
             tbody
               tr
                 td Tórax máximo
@@ -436,19 +436,19 @@
                 td 144
               tr
                 td Talle
-                td 144 / 10 = 14,4 * 3
+                td 144/10 = 14,4 * 3
                 td 43,2
               tr
                 td Largo de brazo
-                td 144 / 10 = 14,4 * 4
+                td 144/10 = 14,4 * 4
                 td 57,6
               tr
                 td Cuello
-                td 40 / 3 = 13,3 * 2
+                td 40/3 = 13,3 * 2
                 td 26,6
               tr
-                td Cintura/suelo
-                td 144 / 10 =14,4 * 7
+                td Cintura / suelo
+                td 144/10 = 14,4 * 7
                 td 100,8
               tr
                 td Base

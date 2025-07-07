@@ -245,7 +245,7 @@
               .row.justify-content-center.align-items-center.mb-0(titulo="Paso 3")
                 .col-sm-12.col-lg-6.col-md-12
                   h4.mb-4  Medición de tela usada
-                  p.mb-4 Mida el largo total de tela utilizado una vez acomodadas todas las piezas. Por ejemplo, si las piezas distribuidas ocupan 0.95 metros del total de 1 metro adquirido, ese será su valor de uso real.
+                  p.mb-4 Mida el largo total de tela utilizado una vez acomodadas todas las piezas. Por ejemplo, si las piezas distribuidas ocupan 0,95 metros del total de 1 metro adquirido, ese será su valor de uso real.
                 .col-sm-12.col-lg-4.col-md-6
                   img(src='@/assets/curso/t5/img7.png', alt='')
 

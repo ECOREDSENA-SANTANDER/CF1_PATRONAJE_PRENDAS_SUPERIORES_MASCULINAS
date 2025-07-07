@@ -55,7 +55,7 @@
         .row.bgrosado.p-0
           .col-auto.px-5.mt-5
             p.bgrojo.text-white.p-1.mb-4 #[b Importante]
-          p.px-5.mb-5.mt-3 La escala en fracciones de pulgada se utiliza para medir con precisión en el sistema inglés; divide cada pulgada en partes iguales, como 1 / 2, 1 / 4, 1 / 8, 1 / 16, etc. El numerador indica cuántas partes se toman y el denominador cuántas partes tiene la pulgada en total; es común en patronaje y carpintería.
+          p.px-5.mb-5.mt-3 La escala en fracciones de pulgada se utiliza para medir con precisión en el sistema inglés; divide cada pulgada en partes iguales, como 1/2, 1/4, 1/8, 1/16, etc. El numerador indica cuántas partes se toman y el denominador cuántas partes tiene la pulgada en total; es común en patronaje y carpintería.
       
     p.mb-5 Al sistema inglés también se le llama “sistema de medidas imperial”, especialmente en el entorno de la confección. Sin embargo, la mayoría de los países han adoptado el sistema de medidas decimal comúnmente llamado “sistema universal”, haciendo comunes los procesos de conversión de medidas, donde 1 pulgada corresponde a 2.54 cm.
 

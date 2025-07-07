@@ -163,7 +163,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Gamas de mercado- Universos de vestuarios- Ocasiones de uso
+              h4.mb-1 Gamas de mercado - universos de vestuarios - ocasiones de uso
               p.mb-2 Si desea profundizar en el tema de los universos del vestuario, lo invitamos a explorar el siguiente recurso:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=VsTacEciP3k" target="_blank")

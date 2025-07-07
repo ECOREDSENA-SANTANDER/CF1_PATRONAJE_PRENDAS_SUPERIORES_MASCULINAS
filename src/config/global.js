@@ -232,12 +232,12 @@ export default {
     {
       termino: '<em>Outfit</em>',
       significado:
-        'conjunto de prendas combinadas de una manera determinada. Designa un entendiendo concreto, pero su uso se ha popularizado hasta el punto de emplearse como sinónimo del término genérico conjunto.',
+        'conjunto de prendas combinadas de una manera determinada. Designa un atuendo concreto, pero su uso se ha popularizado hasta el punto de emplearse como sinónimo del término genérico conjunto.',
     },
     {
       termino: 'Corte asimétrico',
       significado:
-        'estructura de las prendas, más cortas por delante que por detrás, con la que se consigue el llamado «efecto cula» en faldas y vestidos.',
+        'estructura de las prendas, más cortas por delante que por detrás, con la que se consigue el llamado «efecto cola» en faldas y vestidos.',
     },
     {
       termino: 'Tipología',
@@ -433,8 +433,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
