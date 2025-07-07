@@ -324,7 +324,7 @@ tabla<template lang="pug">
                   h5 Figura 7.
                   | Silueta rectangular
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig7.png', alt='Imagen presenta una figura humana masculina de pie. La complexión corporal expone proporciones similares entre los hombros, la cintura y las caderas, formando una silueta rectangular. Debajo de la figura se encuentra un símbolo rectangular que refuerza visualmente la forma corporal representada.')
+                  img.mb-1(src='@/assets/curso/t1/fig7.png', alt='Presenta una figura humana masculina de pie. La complexión corporal expone proporciones similares entre los hombros, la cintura y las caderas, formando una silueta rectangular. Debajo de la figura se encuentra un símbolo rectangular que refuerza visualmente la forma corporal representada.')
         .tarjeta.color-terciario.p-4(titulo="Tipo de silueta 3")
           .row.justify-content-center
             .col-lg-6.col-md-6.col-sm-12
@@ -360,7 +360,7 @@ tabla<template lang="pug">
                   h5 Figura 10.
                   | Silueta trapecio
                 .col-lg-8.col-md-10.col-sm-12
-                  img.mb-1(src='@/assets/curso/t1/fig10.png', alt='Presenta una figura humana masculina de pie. La complexión corporal se destaca por una mayor amplitud en los hombros en comparación con la cintura y las caderas. Debajo de la figura se encuentra un triángulo apuntando hacia abajo, representando gráficamente la forma corporal.')
+                  img.mb-1(src='@/assets/curso/t1/fig10.png', alt='Presenta una figura humana masculina de pie. La complexión corporal se destaca por una mayor amplitud en los hombros en comparación con la cintura y las caderas. Debajo de la figura se encuentra un trapecio, representando gráficamente la forma corporal.')
 
 
       p.mt-4 Aunque en el diseño y patronaje de prendas femeninas se trabaja ampliamente con la clasificación de siluetas, en el mercado masculino este abordaje es más generalizado. En su lugar, se prioriza la clasificación de la figura masculina a partir de los somatotipos, los cuales serán la base fundamental para el desarrollo del patronaje de prendas superiores de moda masculina.

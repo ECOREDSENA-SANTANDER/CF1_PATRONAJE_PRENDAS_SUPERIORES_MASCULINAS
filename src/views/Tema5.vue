@@ -43,57 +43,80 @@
       .titulo-sexto.color-acento-contenido
         h5 Tabla 11. 
         |  Clasificación de las fibras
-      .tabla-a.color-secundario.estilo6
+      .tabla-a.color-secundario.estilo8
         table(alt="Tabla organizada que clasifica las fibras textiles en dos grandes grupos: fibras naturales y fibras químicas, según su origen y composición.")
-          tr
-            td(rowspan="7").fw-bold.bgrosadoclaro.izquierdo(style="width:14%") Fibras naturales
-            td(rowspan="2").fw-bold.bgrosadoclaro(style="width:12%") Animales
-            td.bgrosadoclaro Procedentes de glándulas sedosas.
-            td.bgrosadoclaro Seda, seda salvaje.
-          tr
-            td.bgrosadoclaro Procedentes de folículos pilosos.
-            td.bgrosadoclaro Pelo de alpaca, angora, buey, caballo, conejo, castor, camello, cachemira, cabra guanaco, llama, nutria, yak y vicuña.
-          // Fibras naturales - Vegetales
-          tr
-            td(rowspan="4").fw-bold.bgrosadoclaro(style="width:12%") Vegetales
-            td.bgrosadoclaro Procedentes de las semillas.
-            td.bgrosadoclaro Algodón.
-          tr
-            td.bgrosadoclaro Procedentes del tallo.
-            td.bgrosadoclaro Lino, cáñamo, yute, ramio.
-          tr
-            td.bgrosadoclaro Procedentes de la hoja.
-            td.bgrosadoclaro Esparto, sisal.
-          tr
-            td.bgrosadoclaro Procedentes del fruto.
-            td.bgrosadoclaro Coco.
-          // Fibras naturales - Minerales
-          tr
-            td.fw-bold.bgrosadoclaro(style="width:12%") Minerales
-            td.quitarborde.bgrosadoclaro(colspan="1") Asbestos, fibra de vidrio, fibra de carbono.
-            td.bgrosadoclaro
-          tr
-            td(rowspan="7").fw-bold.bgazulclaro.izquierdo(style="width:14%") Fibras químicas
-            td(rowspan="3").fw-bold.bgazulclaro(style="width:12%")  Artificiales
-            td.bgazulclaro Base proteínica.
-            td.bgazulclaro De la caseína de la leche (fibroína), de algas (alginato).
-          tr
-            td.bgazulclaro Base celulósica.
-            td.bgazulclaro Rayones (viscosa, #[em crupón], acetato).
-          tr
-            td.bgazulclaro Base metálica.
-            td.bgazulclaro Oro, plata, cobre.
-          // Fibras químicas - Sintéticas
-          tr
-            td(rowspan="3").fw-bold.bgazulclaro(style="width:12%") Sintéticas
-            td.bgazulclaro Por polimerización.
-            td.bgazulclaro Polivinilo, poliacrílicos.
-          tr
-            td.bgazulclaro Por condensación.
-            td.bgazulclaro Poliéster (tergal), poliamida (#[em nylon]).
-          tr
-            td.bgazulclaro Por poliadición.
-            td.bgazulclaro Poliuretano y poliespán.
+          thead
+            tr
+              th.izquierdo(style="width:16%") Tipo de fibra
+              th.izquierdo(style="width:14%") Origen
+              th Subcategoría
+              th(style="width:45%") Ejemplos
+          tbody
+            tr
+              td Fibras naturales
+              td Animales
+              td Procedentes de glándulas sedosas.
+              td Seda, seda salvaje.
+            tr
+              td Fibras naturales
+              td Animales
+              td Procedentes de folículos pilosos.
+              td Pelo de alpaca, angora, buey, caballo, conejo, castor, camello, cachemira, cabra guanaco, llama, nutria, yak y vicuña.
+            tr
+              td Fibras naturales
+              td Vegetales
+              td Procedentes de las semillas.
+              td Algodón.
+            tr
+              td Fibras naturales
+              td Vegetales
+              td Procedentes del tallo.
+              td Lino, cáñamo, yute, ramio.
+            tr
+              td Fibras naturales
+              td Vegetales
+              td Procedentes de la hoja.
+              td Esparto, sisal.
+            tr
+              td Fibras naturales
+              td Vegetales
+              td Procedentes del fruto.
+              td Coco.
+            tr
+              td Fibras naturales
+              td Minerales
+              td No aplica. 
+              td Asbestos, fibra de vidrio y fibra de carbono.
+            tr
+              td Fibras químicas
+              td Artificiales
+              td Base proteínica.
+              td De la caseína de la leche (fibroína), de algas (alginato).
+            tr
+              td Fibras químicas
+              td Artificiales
+              td Base celulósica.
+              td Rayones (viscosa, #[em crupón], acetato).
+            tr
+              td Fibras químicas
+              td Artificiales
+              td Base metálica.
+              td Oro, plata, cobre.
+            tr
+              td Fibras químicas
+              td Sintéticas
+              td Por polimerización.
+              td Polivinilo, poliacrílicos.
+            tr
+              td Fibras químicas
+              td Sintéticas
+              td Por condensación.
+              td Poliéster (tergal), poliamida (#[em nylon]).
+            tr
+              td Fibras químicas
+              td Sintéticas
+              td Por poliadición.
+              td Poliuretano y poliespán.
 
     .subt.mb-5(data-aos="fade-right")
       .row.align-items-center
@@ -141,47 +164,60 @@
       .titulo-sexto.color-acento-contenido
         h5 Tabla 12. 
         | Clasificación de tejidos
-      .tabla-a.color-secundario.estilo6
+      .tabla-a.color-secundario.estilo8
         table(alt="Tabla con la clasificación de los tejidos en dos grandes grupos: telas tejidas y telas no tejidas. Dentro de las telas tejidas se encuentran los tejidos planos, que incluyen ligamentos fundamentales como tafetán, sarga y raso; ligamentos derivados como esterilla, espina y sarga interrumpida; y otros como dobby, jacquard y afelpados. También se clasifican los tejidos de punto, divididos en tejidos por trama (jersey, lacoste, rib, interlock, piqué) y por urdimbre (tricot y raschell). Por último, las telas no tejidas comprenden materiales como interlones, guatas y entretelas.")
-          tr
-            td(rowspan="13").fw-bold.bgamarilloclaro3 Telas tejidas
-          tr
-            td(rowspan="7").bgamarilloclaro3.fw-bold.w-25.text-left Plano
-            td(rowspan="3").bgamarilloclaro3.text-left Ligamentos fundamentales
-            td.bgamarilloclaro3.text-left Tafetán
-          tr
-            td.bgamarilloclaro3.text-left Sarga (diagonal)
-          tr
-            td.bgamarilloclaro3.text-left Raso
-          tr
-            td.bgamarilloclaro3.text-left(rowspan="3") Ligamentos derivados
-          
-            td.bgamarilloclaro3.text-left Esterilla/panamá/canastra
-          tr
-            td.bgamarilloclaro3.text-left  Espina/espiga
-          tr
-            td.bgamarilloclaro3.text-left Sarga interrumpida #[em (broken twill)]
-          tr.bgamarilloclaro3
-            td.bgamarilloclaro3.text-left Otros
-            td.bgamarilloclaro3.text-left Dobby, jacquard, riso, afelpados, etc.
-          tr
-            td(rowspan="5").bgamarilloclaro3.fw-bold.w-25.text-left Punto
-            td(rowspan="2").bgamarilloclaro3.text-left Por trama
-            td.bgamarilloclaro3.text-left Sencillo (jersey, lacoste)
-          tr
-            td.bgamarilloclaro3.text-left Doble (#[em rib] o resortado, #[em interlock], piqué)
-          tr
-            td.bgamarilloclaro3.text-left(rowspan="3") Por urdimbre
-          tr 
-            td.bgamarilloclaro3.text-left #[em Tricot]
-          tr 
-            td.bgamarilloclaro3.text-left #[em Raschell]
-          tr
-            td.bgrosadoclaro.fw-bold(style="width:14%") Telas no tejidas
-            td.bgrosadoclaro.text-left(colspan="3")
-              | Guatas
-              br
-              | Entretelas
+          thead
+            tr
+              th.izquierdo(style="width:16%") Tipo de tela
+              th.izquierdo(style="width:14%") Subtipo
+              th Clasificación
+              th(style="width:45%") Ejemplos
+          tbody          
+            tr
+              td Telas tejidas
+              td.text-left Plano
+              td.text-left Ligamentos fundamentales.
+              td.text-left Tafetán.
+                           br
+                           | Sarga (diagonal).
+                           br
+                           | Raso.
+            tr
+              td Telas tejidas
+              td.text-left Plano
+              td.text-left Ligamentos derivados.
+              td.text-left Esterilla / panamá / canastra.
+                           br
+                           | Espina / espiga.
+                           br
+                           | Sarga interrumpida #[em (broken twill)].
+            tr
+              td Telas tejidas
+              td.text-left Plano
+              td.text-left Otros.
+              td.text-left Dobby, jacquard, riso, afelpados, etc.
+            tr
+              td Telas tejidas
+              td.text-left Punto
+              td.text-left Por trama.
+              td.text-left Sencillo (jersey, lacoste).
+                           br
+                           | Doble (#[em rib] o resortado, #[em interlock], piqué).
+            tr
+              td Telas tejidas
+              td.text-left Punto
+              td.text-left Por urdimbre.
+              td.text-left #[em Tricot].
+                           br
+                           | #[em Raschell].
+            tr
+              td Telas no tejidas
+              td.text-left -
+              td.text-left -
+              td.text-left
+                | Guatas.
+                br
+                | Entretelas.
 
     p.mb-4 La caracterización de los textiles se organiza en función de su comportamiento, el cual está estrechamente relacionado con el peso del material, así como con su estructura, fluidez, capacidad de expansión y compresión. Estos aspectos permiten identificar cómo se comporta un textil durante su manipulación, confección y uso.
 
