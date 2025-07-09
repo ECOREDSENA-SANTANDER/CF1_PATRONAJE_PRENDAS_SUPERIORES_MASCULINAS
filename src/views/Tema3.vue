@@ -387,7 +387,7 @@
               span.mb-0 Cuello = 2/3 de pecho + 4 cm
             li 
               i.fas.fa-chevron-circle-right
-              span.mb-0 Cintura/suelo = 7/10 de la estatura 7ac  
+              span.mb-0 Cintura / suelo = 7/10 de la estatura 7ac  
             li 
               i.fas.fa-chevron-circle-right
               span.mb-0 Base = pecho + desahogo + costura (desahogo 4 cm y la costura 2 cm)
@@ -408,7 +408,7 @@
               tr
                 th(style="width:25%") Talla
                 th 6
-                th(style="width:25%") X6 /6
+                th(style="width:25%") X6 / 6
             tbody
               tr
                 td Tórax máximo
