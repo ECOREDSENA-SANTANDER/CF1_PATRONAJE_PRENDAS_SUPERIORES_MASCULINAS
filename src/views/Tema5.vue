@@ -88,7 +88,7 @@
             tr
               td(rowspan="5") Sintéticas
               td Base celulósica.
-              td Rayones (viscosa, #[em crupón], acetato).
+              td Rayones (viscosa, crupón, acetato).
             tr
               td Base metálica.
               td Oro, plata, cobre.
