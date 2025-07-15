@@ -282,7 +282,7 @@ export default {
     },
     {
       referencia:
-        'Cabrera, R. (2016). Introducción a la anatomía normal y funcional. Universidad Nacional del Nordeste.',
+        'Cabrera, R. (2016). Introducción a la anatomía. Universidad Nacional del Nordeste.',
       link:
         'https://med.unne.edu.ar/wp-content/uploads/2018/04/introduccion_a_la_anatomia-1_trayecto.pdf',
     },

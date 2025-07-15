@@ -15,7 +15,7 @@
 
     Separador  
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.1 Sistemas de medidas y clasificación
+      h2 2.1 Sistemas de medidas - clasificación
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-2.col-md-3.col-sm-12
